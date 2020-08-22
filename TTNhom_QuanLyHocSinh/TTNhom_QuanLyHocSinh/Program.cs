@@ -3,10 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using TTNhom_QuanLyHocSinh.Views;
-using TTNhom_QuanLyHocSinh.QLHocSinh;
-using TTNhom_QuanLyHocSinh.Object;
-using TTNhom_QuanLyHocSinh.QLGiaoVien;
+
 
 namespace TTNhom_QuanLyHocSinh
 {
