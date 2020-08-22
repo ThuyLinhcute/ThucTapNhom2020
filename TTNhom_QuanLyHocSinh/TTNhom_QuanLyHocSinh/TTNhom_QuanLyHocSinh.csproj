@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF2732AD-4839-49A2-BAED-C5FAEB17BA09}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TTNhom_QuanLyHocSinh</RootNamespace>
+    <AssemblyName>TTNhom_QuanLyHocSinh</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CSDL\connection.cs" />
+    <Compile Include="Object\Diem.cs" />
+    <Compile Include="Object\DiemSql.cs" />
+    <Compile Include="Object\GiangDay.cs" />
+    <Compile Include="Object\GiangDaySql.cs" />
+    <Compile Include="Object\Lop.cs" />
+    <Compile Include="Object\LopSql.cs" />
+    <Compile Include="Object\User.cs" />
+    <Compile Include="Object\UserSql.cs" />
+    <Compile Include="QLGiangDay\QLLop\QLyLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\QLyLop.Designer.cs">
+      <DependentUpon>QLyLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\TTChiTietLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\TTChiTietLop.Designer.cs">
+      <DependentUpon>TTChiTietLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\QLyGiangDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLyGiangDay.Designer.cs">
+      <DependentUpon>QLyGiangDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\QLDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLDiem.Designer.cs">
+      <DependentUpon>QLDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Object\GiaoVien.cs" />
+    <Compile Include="Object\GiaoVienSql.cs" />
+    <Compile Include="QLGiangDay\TTChiTietGiangDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\TTChiTietGiangDay.Designer.cs">
+      <DependentUpon>TTChiTietGiangDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\TTChiTietDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\TTChiTietDiem.Designer.cs">
+      <DependentUpon>TTChiTietDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaoVien\QLGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiaoVien\QLGV.Designer.cs">
+      <DependentUpon>QLGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaoVien\ThongTinChiTietGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiaoVien\ThongTinChiTietGV.Designer.cs">
+      <DependentUpon>ThongTinChiTietGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHocSinh\QLHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHocSinh\QLHS.Designer.cs">
+      <DependentUpon>QLHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHocSinh\ThongTinChiTietHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHocSinh\ThongTinChiTietHS.Designer.cs">
+      <DependentUpon>ThongTinChiTietHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Object\HocSinh.cs" />
+    <Compile Include="Object\HocSinhSql.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\QuanLyChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\QuanLyChung.Designer.cs">
+      <DependentUpon>QuanLyChung.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QLGiangDay\QLLop\QLyLop.resx">
+      <DependentUpon>QLyLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\QLLop\TTChiTietLop.resx">
+      <DependentUpon>TTChiTietLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\QLyGiangDay.resx">
+      <DependentUpon>QLyGiangDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\QLDiem.resx">
+      <DependentUpon>QLDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\TTChiTietGiangDay.resx">
+      <DependentUpon>TTChiTietGiangDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\TTChiTietDiem.resx">
+      <DependentUpon>TTChiTietDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiaoVien\QLGV.resx">
+      <DependentUpon>QLGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiaoVien\ThongTinChiTietGV.resx">
+      <DependentUpon>ThongTinChiTietGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHocSinh\QLHS.resx">
+      <DependentUpon>QLHS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHocSinh\ThongTinChiTietHS.resx">
+      <DependentUpon>ThongTinChiTietHS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\QuanLyChung.resx">
+      <DependentUpon>QuanLyChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
