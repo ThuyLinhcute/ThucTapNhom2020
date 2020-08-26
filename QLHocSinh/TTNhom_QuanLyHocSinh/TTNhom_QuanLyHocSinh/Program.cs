@@ -8,6 +8,7 @@ using TTNhom_QuanLyHocSinh.QLHocSinh;
 using TTNhom_QuanLyHocSinh.Object;
 using TTNhom_QuanLyHocSinh.QLGiaoVien;
 
+
 namespace TTNhom_QuanLyHocSinh
 {
     static class Program
@@ -24,6 +25,8 @@ namespace TTNhom_QuanLyHocSinh
         public static GiaoVienSql giaoVienSql;
         public static GiaoVien gv;
         public static QLGV qLGV;
+        public static GiangDay giangDay;
+        public static GiangDaySql giangDaySql;
        
         public static string mamonhoc;
         public static UserSql userSql;
@@ -41,6 +44,9 @@ namespace TTNhom_QuanLyHocSinh
             giaoVienSql = new GiaoVienSql();
             gv = new GiaoVien();
             qLGV = new QLGV();
+            giangDay = new GiangDay();
+            giangDaySql = new GiangDaySql();
+          
             userSql = new UserSql();
             Application.Run(lg);
         }
