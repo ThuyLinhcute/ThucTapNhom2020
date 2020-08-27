@@ -56,6 +56,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CSDL\connection.cs" />
+    <Compile Include="Object\Diem.cs" />
+    <Compile Include="Object\DiemSql.cs" />
     <Compile Include="Object\GiangDay.cs" />
     <Compile Include="Object\GiangDaySql.cs" />
     <Compile Include="Object\GiaoVien.cs" />
@@ -84,11 +86,23 @@
     <Compile Include="FormChung\QuanLyChung.designer.cs">
       <DependentUpon>QuanLyChung.cs</DependentUpon>
     </Compile>
+    <Compile Include="QLGiangDay\QLDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLDiem.designer.cs">
+      <DependentUpon>QLDiem.cs</DependentUpon>
+    </Compile>
     <Compile Include="QLGiangDay\QLyGiangDay.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="QLGiangDay\QLyGiangDay.designer.cs">
       <DependentUpon>QLyGiangDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\TTChiTietDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\TTChiTietDiem.designer.cs">
+      <DependentUpon>TTChiTietDiem.cs</DependentUpon>
     </Compile>
     <Compile Include="QLGiangDay\TTChiTietGiangDay.cs">
       <SubType>Form</SubType>
@@ -140,8 +154,14 @@
     <EmbeddedResource Include="FormChung\QuanLyChung.resx">
       <DependentUpon>QuanLyChung.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\QLDiem.resx">
+      <DependentUpon>QLDiem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="QLGiangDay\QLyGiangDay.resx">
       <DependentUpon>QLyGiangDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\TTChiTietDiem.resx">
+      <DependentUpon>TTChiTietDiem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QLGiangDay\TTChiTietGiangDay.resx">
       <DependentUpon>TTChiTietGiangDay.cs</DependentUpon>
