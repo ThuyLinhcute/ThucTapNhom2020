@@ -64,6 +64,8 @@
     <Compile Include="Object\GiaoVienSql.cs" />
     <Compile Include="Object\HocSinh.cs" />
     <Compile Include="Object\HocSinhSql.cs" />
+    <Compile Include="Object\Lop.cs" />
+    <Compile Include="Object\LopSql.cs" />
     <Compile Include="Object\User.cs" />
     <Compile Include="Object\UserSql.cs" />
     <Compile Include="Program.cs" />
@@ -91,6 +93,18 @@
     </Compile>
     <Compile Include="QLGiangDay\QLDiem.designer.cs">
       <DependentUpon>QLDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\QLyLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\QLyLop.designer.cs">
+      <DependentUpon>QLyLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\TTChiTietLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiangDay\QLLop\TTChiTietLop.designer.cs">
+      <DependentUpon>TTChiTietLop.cs</DependentUpon>
     </Compile>
     <Compile Include="QLGiangDay\QLyGiangDay.cs">
       <SubType>Form</SubType>
@@ -156,6 +170,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="QLGiangDay\QLDiem.resx">
       <DependentUpon>QLDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\QLLop\QLyLop.resx">
+      <DependentUpon>QLyLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiangDay\QLLop\TTChiTietLop.resx">
+      <DependentUpon>TTChiTietLop.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QLGiangDay\QLyGiangDay.resx">
       <DependentUpon>QLyGiangDay.cs</DependentUpon>
