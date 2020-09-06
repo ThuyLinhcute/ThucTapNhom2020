@@ -666,13 +666,10 @@ C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_Quan
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-<<<<<<< Updated upstream
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLDiem.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLyGiangDay.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietDiem.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietGiangDay.resources
-=======
->>>>>>> Stashed changes
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.QLGV.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.ThongTinChiTietGV.resources
 C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
