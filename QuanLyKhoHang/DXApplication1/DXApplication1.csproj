@@ -96,9 +96,17 @@
     <Compile Include="Models\connection.cs" />
     <Compile Include="Models\NguoiDung.cs" />
     <Compile Include="Models\NguoiDungSql.cs" />
+    <Compile Include="Models\Sanpham_SQL.cs" />
     <Compile Include="Models\ThongTinNguoiDung.cs" />
     <Compile Include="Models\ThongTinNguoiDungSql.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Form_NCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Form_NCC.designer.cs">
+      <DependentUpon>Form_NCC.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\frmDky.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,14 +125,21 @@
     <Compile Include="Admin\Form_Admin.Designer.cs">
       <DependentUpon>Form_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\UserUtilizes.cs" />
+    <Compile Include="Views\User_Control\Sanpham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\User_Control\Sanpham.designer.cs">
+      <DependentUpon>Sanpham.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Account\Detail_User.resx">
       <DependentUpon>Detail_User.cs</DependentUpon>
     </EmbeddedResource>
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Account\UpdatePass.resx">
       <DependentUpon>UpdatePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Form_NCC.resx">
+      <DependentUpon>Form_NCC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\frmDky.resx">
       <DependentUpon>frmDky.cs</DependentUpon>
@@ -136,6 +151,9 @@
       <DependentUpon>Form_Admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Views\User_Control\Sanpham.resx">
+      <DependentUpon>Sanpham.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="App.config" />
     <None Include="bin\Debug\DXApplication1.exe.config" />
     <None Include="Properties\Settings.settings">
