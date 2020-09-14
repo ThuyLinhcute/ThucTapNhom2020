@@ -77,8 +77,8 @@
     <Compile Include="DAO\AccountDAO.cs" />
     <Compile Include="DAO\AccountTypeDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\ExportToExcel.cs" />
     <Compile Include="DTO\Account.cs" />
-    <Compile Include="DTO\CustomerDAO.cs" />
     <Compile Include="DTO\Parameter.cs" />
     <Compile Include="DTO\AccountType.cs" />
     <Compile Include="fAbout.cs">
@@ -92,24 +92,6 @@
     </Compile>
     <Compile Include="fAccess.Designer.cs">
       <DependentUpon>fAccess.cs</DependentUpon>
-    </Compile>
-    <Compile Include="fCustomer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="fCustomer.designer.cs">
-      <DependentUpon>fCustomer.cs</DependentUpon>
-    </Compile>
-    <Compile Include="fStaff.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="fStaff.designer.cs">
-      <DependentUpon>fStaff.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Resources\fAddStaff.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Resources\fAddStaff.Designer.cs">
-      <DependentUpon>fAddStaff.cs</DependentUpon>
     </Compile>
     <Compile Include="fManagement.cs">
       <SubType>Form</SubType>
@@ -130,15 +112,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fAccess.resx">
       <DependentUpon>fAccess.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="fCustomer.resx">
-      <DependentUpon>fCustomer.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="fStaff.resx">
-      <DependentUpon>fStaff.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\fAddStaff.resx">
-      <DependentUpon>fAddStaff.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fManagement.resx">
       <DependentUpon>fManagement.cs</DependentUpon>
