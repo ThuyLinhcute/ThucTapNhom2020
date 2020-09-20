@@ -30,13 +30,23 @@
         {
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.DataSetBaoCao = new BanHangSieuTHi.DataSetBaoCao();
             this.DataTable1BindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.DataSetBaoCao = new BanHangSieuTHi.DataSetBaoCao();
+            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
             this.DataTable1TableAdapter = new BanHangSieuTHi.DataSetBaoCaoTableAdapters.DataTable1TableAdapter();
-            ((System.ComponentModel.ISupportInitialize)(this.DataSetBaoCao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataTable1BindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataSetBaoCao)).BeginInit();
             this.SuspendLayout();
+            // 
+            // DataTable1BindingSource
+            // 
+            this.DataTable1BindingSource.DataMember = "DataTable1";
+            this.DataTable1BindingSource.DataSource = this.DataSetBaoCao;
+            // 
+            // DataSetBaoCao
+            // 
+            this.DataSetBaoCao.DataSetName = "DataSetBaoCao";
+            this.DataSetBaoCao.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // reportViewer1
             // 
@@ -46,20 +56,12 @@
             this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "BanHangSieuTHi.Report1.rdlc";
             this.reportViewer1.Location = new System.Drawing.Point(0, 0);
+            this.reportViewer1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(645, 561);
+            this.reportViewer1.Size = new System.Drawing.Size(860, 690);
             this.reportViewer1.TabIndex = 0;
-            // 
-            // DataSetBaoCao
-            // 
-            this.DataSetBaoCao.DataSetName = "DataSetBaoCao";
-            this.DataSetBaoCao.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // DataTable1BindingSource
-            // 
-            this.DataTable1BindingSource.DataMember = "DataTable1";
-            this.DataTable1BindingSource.DataSource = this.DataSetBaoCao;
+            this.reportViewer1.Load += new System.EventHandler(this.reportViewer1_Load);
             // 
             // DataTable1TableAdapter
             // 
@@ -67,15 +69,16 @@
             // 
             // frmBaoCaoThongKe
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(645, 561);
+            this.ClientSize = new System.Drawing.Size(860, 690);
             this.Controls.Add(this.reportViewer1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmBaoCaoThongKe";
             this.Text = "frmBaoCaoThongKe";
             this.Load += new System.EventHandler(this.frmBaoCaoThongKe_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.DataSetBaoCao)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataTable1BindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataSetBaoCao)).EndInit();
             this.ResumeLayout(false);
 
         }
