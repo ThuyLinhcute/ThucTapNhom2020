@@ -82,7 +82,7 @@
             this.panelRight.Name = "panelRight";
             this.panelRight.Size = new System.Drawing.Size(1252, 718);
             this.panelRight.TabIndex = 1;
-            this.panelRight.Paint += new System.Windows.Forms.PaintEventHandler(this.panelRight_Paint);
+           // this.panelRight.Paint += new System.Windows.Forms.PaintEventHandler(this.panelRight_Paint);
             // 
             // bunifuSeparator1
             // 

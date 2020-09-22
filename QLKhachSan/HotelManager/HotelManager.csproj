@@ -83,9 +83,11 @@
     <Compile Include="DAO\CustomerTypeDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\ExportToExcel.cs" />
+    <Compile Include="DAO\ParameterDAO.cs" />
     <Compile Include="DAO\ReceiveRoomDAO.cs" />
     <Compile Include="DAO\ReceiveRoomDetailsDAO.cs" />
     <Compile Include="DAO\ReceiveRoomInfoDAO.cs" />
+    <Compile Include="DAO\ReportDAO.cs" />
     <Compile Include="DAO\RoomDAO.cs" />
     <Compile Include="DAO\RoomTypeDAO.cs" />
     <Compile Include="DAO\ServiceDAO.cs" />
@@ -163,6 +165,10 @@
     <Compile Include="fCustomer.designer.cs">
       <DependentUpon>fCustomer.cs</DependentUpon>
     </Compile>
+    <Compile Include="fParameter.cs" />
+    <Compile Include="fParameter.designer.cs">
+      <DependentUpon>fParameter.cs</DependentUpon>
+    </Compile>
     <Compile Include="fPrintBill.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -206,6 +212,10 @@
     </Compile>
     <Compile Include="fStaff.designer.cs">
       <DependentUpon>fStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUseService.cs" />
+    <Compile Include="fUseService.designer.cs">
+      <DependentUpon>fUseService.cs</DependentUpon>
     </Compile>
     <Compile Include="Resources\fAddStaff.cs">
       <SubType>Form</SubType>
@@ -257,6 +267,9 @@
     <EmbeddedResource Include="fCustomer.resx">
       <DependentUpon>fCustomer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fParameter.resx">
+      <DependentUpon>fParameter.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fPrintBill.resx">
       <DependentUpon>fPrintBill.cs</DependentUpon>
     </EmbeddedResource>
@@ -280,6 +293,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fStaff.resx">
       <DependentUpon>fStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUseService.resx">
+      <DependentUpon>fUseService.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Resources\fAddStaff.resx">
       <DependentUpon>fAddStaff.cs</DependentUpon>
