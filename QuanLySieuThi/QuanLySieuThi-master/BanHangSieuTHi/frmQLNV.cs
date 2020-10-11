@@ -110,32 +110,32 @@ namespace BanHangSieuTHi
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            // try
-            // {
-            //     if (txtMa.Text != "")
-            //     {
-            //         DialogResult result;
-            //         result = MessageBox.Show("BẠN CÓ MUỐN THÊM NHÂN VIÊN NÀY KHÔNG?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            //         if (result == DialogResult.Yes)
-            //         {
-            //             string[] name = { "@MaNV", "@HoTenNV", "@DiaChiNV", "@SdtNV", "@ChucVu", "@NgaySinh", "@GioiTinh" };
-            //             string[] value = { txtMa.Text, txtTen.Text, txtDiaChi.Text, txtSdt.Text, cbCV.SelectedItem.ToString(), dateTimePicker1.Value.ToString(), cbGT.SelectedItem.ToString() };
-            //             sqlQuery sql = new sqlQuery();
-            //             sql.update("ADD_NV", name, value, 7);
-            //             MessageBox.Show("THÊM NHÂN VIÊN THÀNH CÔNG !", "");
-                        
-            //             LoadListView1();
-            //         }
-            //     }
-            //     else
-            //     {
-            //         MessageBox.Show("Mời kiểm tra lại !", "THÔNG BÁO");
-            //     }
-            // }
-            // catch (Exception)
-            // {
-            //     MessageBox.Show("Bạn đã nhập đủ các trường cần thiết chưa??", "Warning");
-            // }
+            try
+            {
+                if (txtMa.Text != "")
+                {
+                    DialogResult result;
+                    result = MessageBox.Show("BẠN CÓ MUỐN THÊM NHÂN VIÊN NÀY KHÔNG?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (result == DialogResult.Yes)
+                    {
+                        string[] name = { "@MaNV", "@HoTenNV", "@DiaChiNV", "@SdtNV", "@ChucVu", "@NgaySinh", "@GioiTinh" };
+                        string[] value = { txtMa.Text, txtTen.Text, txtDiaChi.Text, txtSdt.Text, cbCV.SelectedItem.ToString(), dateTimePicker1.Value.ToString(), cbGT.SelectedItem.ToString() };
+                        sqlQuery sql = new sqlQuery();
+                        sql.update("ADD_NV", name, value, 7);
+                        MessageBox.Show("THÊM NHÂN VIÊN THÀNH CÔNG !", "");
+
+                        LoadListView1();
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Mời kiểm tra lại !", "THÔNG BÁO");
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Bạn đã nhập đủ các trường cần thiết chưa??", "Warning");
+            }
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
