@@ -83,52 +83,52 @@ namespace QUAN_LY_THU_VIEN
         private void dataGridView1_CellEnter(object sender, DataGridViewCellEventArgs e)
         {
 
-            ////an cai cap nhat di
-            //bt_cap_nhat.Visible = false;
+               //an cai cap nhat di
+               bt_cap_nhat.Visible = false;
 
-            //tb_ma_phieu_muon.Text = dataGridView1.CurrentRow.Cells["Ma_muon_tra"].Value.ToString();
-            //tb_ten_doc_gia.Text = dataGridView1.CurrentRow.Cells["Ten_doc_gia"].Value.ToString();
-            //tb_so_the.Text = dataGridView1.CurrentRow.Cells["So_the"].Value.ToString();
-            //tb_ma_sach.Text = dataGridView1.CurrentRow.Cells["Ma_sach"].Value.ToString();
-            //HienThongTinLenGridLookUpEditValue(tb_ten_sach, list_sach, tb_ma_sach.Text);
-            ////tb_ten_sach.Text = dataGridView1.CurrentRow.Cells["Ten_sach"].Value.ToString();
-            //tb_ngay_muon.Text = dataGridView1.CurrentRow.Cells["Ngay_muon"].Value.ToString();
-            //tb_ngay_tra.Text = dataGridView1.CurrentRow.Cells["Ngay_tra"].Value.ToString();
+               tb_ma_phieu_muon.Text = dataGridView1.CurrentRow.Cells["Ma_muon_tra"].Value.ToString();
+               tb_ten_doc_gia.Text = dataGridView1.CurrentRow.Cells["Ten_doc_gia"].Value.ToString();
+               tb_so_the.Text = dataGridView1.CurrentRow.Cells["So_the"].Value.ToString();
+               tb_ma_sach.Text = dataGridView1.CurrentRow.Cells["Ma_sach"].Value.ToString();
+               HienThongTinLenGridLookUpEditValue(tb_ten_sach, list_sach, tb_ma_sach.Text);
+               //tb_ten_sach.Text = dataGridView1.CurrentRow.Cells["Ten_sach"].Value.ToString();
+               tb_ngay_muon.Text = dataGridView1.CurrentRow.Cells["Ngay_muon"].Value.ToString();
+               tb_ngay_tra.Text = dataGridView1.CurrentRow.Cells["Ngay_tra"].Value.ToString();
 
 
-            //tb_ma_phieu_muon.ReadOnly = true;
-            //tb_ten_doc_gia.ReadOnly = true;
-            //tb_so_the.ReadOnly = true;
-            //tb_ma_sach.ReadOnly = true;
-            //tb_ten_sach.ReadOnly = true;
-            //tb_ngay_muon.ReadOnly = true;
-            //tb_ngay_tra.ReadOnly = true;
-        }
+               tb_ma_phieu_muon.ReadOnly = true;
+               tb_ten_doc_gia.ReadOnly = true;
+               tb_so_the.ReadOnly = true;
+               tb_ma_sach.ReadOnly = true;
+               tb_ten_sach.ReadOnly = true;
+               tb_ngay_muon.ReadOnly = true;
+               tb_ngay_tra.ReadOnly = true;
+          }
 
         private void bt_them_Click(object sender, EventArgs e)
         {
-            ////hien button cap nhat
-            //bt_cap_nhat.Visible = true;
+               //hien button cap nhat
+               bt_cap_nhat.Visible = true;
 
-            ////cap nhat trang thai
-            //status = 1;
-
-
-            ////go bo readonly  tb_Mabs.ReadOnly = true;
-            //tb_ma_phieu_muon.ReadOnly = true;
-            //tb_ten_doc_gia.ReadOnly = true;
-            //tb_so_the.ReadOnly = true;
-            //tb_ma_sach.ReadOnly = true;
-            //tb_ten_sach.ReadOnly = false;
-            //tb_ngay_muon.ReadOnly = false;
-            //tb_ngay_tra.ReadOnly = false;
+               //cap nhat trang thai
+               status = 1;
 
 
-            //tb_ma_phieu_muon.Text = danh_ma_tu_dong();
-            //tb_ten_sach.Text = "";
-            //tb_ngay_muon.Text = "";
-            //tb_ngay_tra.Text = "";
-        }
+               //go bo readonly  tb_Mabs.ReadOnly = true;
+               tb_ma_phieu_muon.ReadOnly = true;
+               tb_ten_doc_gia.ReadOnly = true;
+               tb_so_the.ReadOnly = true;
+               tb_ma_sach.ReadOnly = true;
+               tb_ten_sach.ReadOnly = false;
+               tb_ngay_muon.ReadOnly = false;
+               tb_ngay_tra.ReadOnly = false;
+
+
+               tb_ma_phieu_muon.Text = danh_ma_tu_dong();
+               tb_ten_sach.Text = "";
+               tb_ngay_muon.Text = "";
+               tb_ngay_tra.Text = "";
+          }
 
 
         private string danh_ma_tu_dong()
@@ -176,67 +176,67 @@ namespace QUAN_LY_THU_VIEN
 
         private void bt_cap_nhat_Click(object sender, EventArgs e)
         {
-            //int giatri = 0;
+               int giatri = 0;
 
-            ////hien message box
-            //if (giatri == 0)
-            //{
-            //    System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập phiếu mượn này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            //    if (result == System.Windows.Forms.DialogResult.Yes)
-            //    {
-            //        MessageBox.Show("ban chon yess");
-            //        if (status == 1)
-            //        {
-            //            Insert_Phieu_muon();
-            //        }
-            //        else if (status == 2)
-            //        {
-            //            //Update_Phieu_muon();
-            //        }
+               //hien message box
+               if (giatri == 0)
+               {
+                    System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập phiếu mượn này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                    if (result == System.Windows.Forms.DialogResult.Yes)
+                    {
+                         MessageBox.Show("ban chon yess");
+                         if (status == 1)
+                         {
+                              Insert_Phieu_muon();
+                         }
+                         else if (status == 2)
+                         {
+                              //Update_Phieu_muon();
+                         }
 
-                  
-            //        //reload
-            //        Muon_tra_Load(panel2, e);
 
-            //    }
-            //    else if (result == System.Windows.Forms.DialogResult.No)
-            //    {
-            //        MessageBox.Show("ban chon no");
-            //    }
-            //}
-        }
+                         //reload
+                         Muon_tra_Load(panel2, e);
+
+                    }
+                    else if (result == System.Windows.Forms.DialogResult.No)
+                    {
+                         MessageBox.Show("ban chon no");
+                    }
+               }
+          }
 
         public void Insert_Phieu_muon()
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("them_phieu_muon", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    //them parameter 
-            //    cmd.Parameters.Add(new SqlParameter("@maphieumuon", tb_ma_phieu_muon.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@sothe", tb_so_the.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@masach", tb_ma_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@manhanvien", Program.lg.UserLogin.Username));
-            //    cmd.Parameters.Add(new SqlParameter("@ngaymuon", Convert.ToDateTime(tb_ngay_muon.Text)));
-            //    cmd.Parameters.Add(new SqlParameter("@ngaytra", Convert.ToDateTime(tb_ngay_tra.Text)));
+               SqlConnection con = new SqlConnection(connectionString.connectionstring);
+               con.Open();
+               SqlCommand cmd = new SqlCommand("them_phieu_muon", con);
+               cmd.CommandType = CommandType.StoredProcedure;
+               try
+               {
+                    //them parameter 
+                    cmd.Parameters.Add(new SqlParameter("@maphieumuon", tb_ma_phieu_muon.Text));
+                    cmd.Parameters.Add(new SqlParameter("@sothe", tb_so_the.Text));
+                    cmd.Parameters.Add(new SqlParameter("@masach", tb_ma_sach.Text));
+                    cmd.Parameters.Add(new SqlParameter("@manhanvien", Program.lg.UserLogin.Username));
+                    cmd.Parameters.Add(new SqlParameter("@ngaymuon", Convert.ToDateTime(tb_ngay_muon.Text)));
+                    cmd.Parameters.Add(new SqlParameter("@ngaytra", Convert.ToDateTime(tb_ngay_tra.Text)));
 
 
-            //    //chay
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException)
-            //{
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Khong sua duoc");
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //    cmd.Dispose();
-            //}
-        }
+                    //chay
+                    cmd.ExecuteNonQuery();
+               }
+               catch (SqlException)
+               {
+                    System.Windows.Forms.DialogResult d;
+                    d = MessageBox.Show("Khong sua duoc");
+               }
+               finally
+               {
+                    con.Close();
+                    cmd.Dispose();
+               }
+          }
 
         public void Update_Doc_gia()
         {
