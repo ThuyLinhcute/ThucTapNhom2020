@@ -82,30 +82,30 @@ namespace BanHangSieuTHi
 
         private void btnChange_Click(object sender, EventArgs e)
         {
-            // try
-            // {
-            //     if (txtMa.Text != "")
-            //     {
-            //         DialogResult result;
-            //         result = MessageBox.Show("BẠN CÓ MUỐN SỬA THÔNG TIN NHÂN VIÊN NÀY KHÔNG?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            //         if (result == DialogResult.Yes)
-            //         {
-            //             string[] name = {  "@MaNV", "@HoTenNV", "@DiaChiNV", "@SdtNV", "@ChucVu", "@NgaySinh", "@GioiTinh" };
-            //             string[] value = { txtMa.Text, txtTen.Text, txtDiaChi.Text, txtSdt.Text, cbCV.SelectedItem.ToString(), "2000-9-13", cbGT.SelectedItem.ToString() };
-            //             sqlQuery sql = new sqlQuery();
-            //             sql.update("UPDATE_NV", name, value, 7);
-            //             MessageBox.Show("Cập nhật thành công");
-            //             listView1.Items.Clear();
-            //             LoadListView1();
-            //         }
-            //     }
-            //     else { MessageBox.Show("Hãy chọn một nhân viên bạn muốn thao tác !!", "Warning"); }
-            // }
-            // catch(Exception Ex)
-            // {
-            //         MessageBox.Show(Ex.ToString(), "Warning");
-            // }
-            
+            try
+            {
+                if (txtMa.Text != "")
+                {
+                    DialogResult result;
+                    result = MessageBox.Show("BẠN CÓ MUỐN SỬA THÔNG TIN NHÂN VIÊN NÀY KHÔNG?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (result == DialogResult.Yes)
+                    {
+                        string[] name = { "@MaNV", "@HoTenNV", "@DiaChiNV", "@SdtNV", "@ChucVu", "@NgaySinh", "@GioiTinh" };
+                        string[] value = { txtMa.Text, txtTen.Text, txtDiaChi.Text, txtSdt.Text, cbCV.SelectedItem.ToString(), "2000-9-13", cbGT.SelectedItem.ToString() };
+                        sqlQuery sql = new sqlQuery();
+                        sql.update("UPDATE_NV", name, value, 7);
+                        MessageBox.Show("Cập nhật thành công");
+                        listView1.Items.Clear();
+                        LoadListView1();
+                    }
+                }
+                else { MessageBox.Show("Hãy chọn một nhân viên bạn muốn thao tác !!", "Warning"); }
+            }
+            catch (Exception Ex)
+            {
+                MessageBox.Show(Ex.ToString(), "Warning");
+            }
+
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
