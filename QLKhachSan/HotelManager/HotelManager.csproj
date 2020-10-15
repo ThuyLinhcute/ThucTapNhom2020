@@ -83,9 +83,17 @@
     <Compile Include="DAO\CustomerTypeDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\ExportToExcel.cs" />
+<<<<<<< HEAD
+    <Compile Include="DAO\ParameterDAO.cs" />
     <Compile Include="DAO\ReceiveRoomDAO.cs" />
     <Compile Include="DAO\ReceiveRoomDetailsDAO.cs" />
     <Compile Include="DAO\ReceiveRoomInfoDAO.cs" />
+    <Compile Include="DAO\ReportDAO.cs" />
+=======
+    <Compile Include="DAO\ReceiveRoomDAO.cs" />
+    <Compile Include="DAO\ReceiveRoomDetailsDAO.cs" />
+    <Compile Include="DAO\ReceiveRoomInfoDAO.cs" />
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
     <Compile Include="DAO\RoomDAO.cs" />
     <Compile Include="DAO\RoomTypeDAO.cs" />
     <Compile Include="DAO\ServiceDAO.cs" />
@@ -163,6 +171,15 @@
     <Compile Include="fCustomer.designer.cs">
       <DependentUpon>fCustomer.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+    <Compile Include="fParameter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fParameter.designer.cs">
+      <DependentUpon>fParameter.cs</DependentUpon>
+    </Compile>
+=======
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
     <Compile Include="fPrintBill.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -207,6 +224,15 @@
     <Compile Include="fStaff.designer.cs">
       <DependentUpon>fStaff.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+    <Compile Include="fUseService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUseService.designer.cs">
+      <DependentUpon>fUseService.cs</DependentUpon>
+    </Compile>
+=======
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
     <Compile Include="Resources\fAddStaff.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -257,6 +283,12 @@
     <EmbeddedResource Include="fCustomer.resx">
       <DependentUpon>fCustomer.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+    <EmbeddedResource Include="fParameter.resx">
+      <DependentUpon>fParameter.cs</DependentUpon>
+    </EmbeddedResource>
+=======
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
     <EmbeddedResource Include="fPrintBill.resx">
       <DependentUpon>fPrintBill.cs</DependentUpon>
     </EmbeddedResource>
@@ -281,6 +313,12 @@
     <EmbeddedResource Include="fStaff.resx">
       <DependentUpon>fStaff.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+    <EmbeddedResource Include="fUseService.resx">
+      <DependentUpon>fUseService.cs</DependentUpon>
+    </EmbeddedResource>
+=======
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
     <EmbeddedResource Include="Resources\fAddStaff.resx">
       <DependentUpon>fAddStaff.cs</DependentUpon>
     </EmbeddedResource>
