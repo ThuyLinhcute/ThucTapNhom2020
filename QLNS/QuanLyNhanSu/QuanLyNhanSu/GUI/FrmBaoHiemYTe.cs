@@ -100,5 +100,10 @@ namespace QuanLyNhanSu.GUI
         {
             this.Close();
         }
+
+        private void FrmBaoHiemYTe_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

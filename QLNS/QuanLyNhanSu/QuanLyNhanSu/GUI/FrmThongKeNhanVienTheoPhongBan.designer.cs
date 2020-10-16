@@ -79,9 +79,9 @@
                this.groupBox1.Controls.Add(this.label1);
                this.groupBox1.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.groupBox1.Location = new System.Drawing.Point(49, 122);
-               this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox1.Name = "groupBox1";
-               this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox1.Size = new System.Drawing.Size(621, 159);
                this.groupBox1.TabIndex = 98;
                this.groupBox1.TabStop = false;
@@ -92,7 +92,7 @@
                this.btnThongKePhongBan.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnThongKePhongBan.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThongKePhongBan.ImageOptions.Image")));
                this.btnThongKePhongBan.Location = new System.Drawing.Point(369, 92);
-               this.btnThongKePhongBan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnThongKePhongBan.Margin = new System.Windows.Forms.Padding(4);
                this.btnThongKePhongBan.Name = "btnThongKePhongBan";
                this.btnThongKePhongBan.Size = new System.Drawing.Size(199, 42);
                this.btnThongKePhongBan.TabIndex = 12;
@@ -104,7 +104,7 @@
                this.cboPhongBan.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
                this.cboPhongBan.FormattingEnabled = true;
                this.cboPhongBan.Location = new System.Drawing.Point(144, 46);
-               this.cboPhongBan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cboPhongBan.Margin = new System.Windows.Forms.Padding(4);
                this.cboPhongBan.Name = "cboPhongBan";
                this.cboPhongBan.Size = new System.Drawing.Size(423, 24);
                this.cboPhongBan.TabIndex = 1;
@@ -127,9 +127,9 @@
                this.groupBox2.Controls.Add(this.label2);
                this.groupBox2.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.groupBox2.Location = new System.Drawing.Point(49, 288);
-               this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox2.Name = "groupBox2";
-               this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox2.Size = new System.Drawing.Size(621, 159);
                this.groupBox2.TabIndex = 99;
                this.groupBox2.TabStop = false;
@@ -140,7 +140,7 @@
                this.btnThongKeChucVu.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnThongKeChucVu.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThongKeChucVu.ImageOptions.Image")));
                this.btnThongKeChucVu.Location = new System.Drawing.Point(369, 92);
-               this.btnThongKeChucVu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnThongKeChucVu.Margin = new System.Windows.Forms.Padding(4);
                this.btnThongKeChucVu.Name = "btnThongKeChucVu";
                this.btnThongKeChucVu.Size = new System.Drawing.Size(199, 42);
                this.btnThongKeChucVu.TabIndex = 12;
@@ -152,7 +152,7 @@
                this.cboChucVu.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
                this.cboChucVu.FormattingEnabled = true;
                this.cboChucVu.Location = new System.Drawing.Point(144, 46);
-               this.cboChucVu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cboChucVu.Margin = new System.Windows.Forms.Padding(4);
                this.cboChucVu.Name = "cboChucVu";
                this.cboChucVu.Size = new System.Drawing.Size(423, 24);
                this.cboChucVu.TabIndex = 1;
@@ -172,7 +172,7 @@
                this.btnXuat.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnXuat.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXuat.ImageOptions.Image")));
                this.btnXuat.Location = new System.Drawing.Point(49, 524);
-               this.btnXuat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnXuat.Margin = new System.Windows.Forms.Padding(4);
                this.btnXuat.Name = "btnXuat";
                this.btnXuat.Size = new System.Drawing.Size(621, 53);
                this.btnXuat.TabIndex = 101;
@@ -184,7 +184,7 @@
                this.btnDong.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnDong.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDong.ImageOptions.Image")));
                this.btnDong.Location = new System.Drawing.Point(49, 585);
-               this.btnDong.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnDong.Margin = new System.Windows.Forms.Padding(4);
                this.btnDong.Name = "btnDong";
                this.btnDong.Size = new System.Drawing.Size(621, 53);
                this.btnDong.TabIndex = 100;
@@ -193,10 +193,10 @@
                // 
                // dgrThongKeSinhNhat
                // 
-               this.dgrThongKeSinhNhat.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.dgrThongKeSinhNhat.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
                this.dgrThongKeSinhNhat.Location = new System.Drawing.Point(679, 122);
                this.dgrThongKeSinhNhat.MainView = this.grvThongKeSinhNhat;
-               this.dgrThongKeSinhNhat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.dgrThongKeSinhNhat.Margin = new System.Windows.Forms.Padding(4);
                this.dgrThongKeSinhNhat.Name = "dgrThongKeSinhNhat";
                this.dgrThongKeSinhNhat.Size = new System.Drawing.Size(900, 516);
                this.dgrThongKeSinhNhat.TabIndex = 114;
@@ -221,6 +221,7 @@
                this.grvThongKeSinhNhat.DetailHeight = 431;
                this.grvThongKeSinhNhat.GridControl = this.dgrThongKeSinhNhat;
                this.grvThongKeSinhNhat.Name = "grvThongKeSinhNhat";
+               this.grvThongKeSinhNhat.OptionsView.ShowGroupPanel = false;
                this.grvThongKeSinhNhat.PaintStyleName = "Flat";
                this.grvThongKeSinhNhat.RowHeight = 37;
                // 
@@ -340,7 +341,7 @@
                this.Controls.Add(this.groupBox1);
                this.Controls.Add(this.label3);
                this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-               this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Margin = new System.Windows.Forms.Padding(4);
                this.Name = "FrmThongKeNhanVienTheoPhongBan";
                this.Text = "FrmThongKeTheoNhanVien";
                this.groupBox1.ResumeLayout(false);
