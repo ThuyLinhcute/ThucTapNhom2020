@@ -144,3 +144,39 @@ H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS
 H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.pdb
 H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\FlashControlV71.dll
 H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.exe.config
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.exe
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.pdb
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\FlashControlV71.dll
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAbout.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddService.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fParameter.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBill.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fManagement.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fLogin.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fService.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fStaff.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fUseService.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.exe
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.pdb

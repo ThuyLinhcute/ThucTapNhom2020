@@ -13,7 +13,7 @@ namespace HotelManager.DAO
         private static DataProvider instance;
         //private string connectionStr = @"Data Source=.\TUNGUYENSV;Initial Catalog=HotelManagement;Integrated Security=True";
 
-        private string connectionStr = @"Data Source=ROCKETGAMER\SQLEXPRESS;Initial Catalog=qlhotel;Integrated Security=True";
+        private string connectionStr = @"Data Source=DESKTOP-MU8BQAA\SQLEXPRESS;Initial Catalog=qlhotel;Integrated Security=True";
         //private string connectionStr = @"Data Source=.\sqlexpress;Initial Catalog=HotelManagement;Integrated Security=True";
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
