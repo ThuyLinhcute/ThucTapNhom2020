@@ -166,81 +166,81 @@ namespace QUAN_LY_THU_VIEN.Sách
         private void dataGridView1_sach_CellEnter(object sender, DataGridViewCellEventArgs e)
         {
 
-            ////an cai cap nhat di
-            //bt_cap_nhat.Visible = false;
+            //an cai cap nhat di
+            bt_cap_nhat.Visible = false;
 
-            ////an cac cai them di
-            //bt_them_tac_gia.Visible = false;
-            //bt_them_NXB.Visible = false;
-            //bt_them_the_loai.Visible = false;
+            //an cac cai them di
+            bt_them_tac_gia.Visible = false;
+            bt_them_NXB.Visible = false;
+            bt_them_the_loai.Visible = false;
 
-            //tb_Ma_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ma_sach"].Value.ToString();
-            //tb_Ten_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ten_sach"].Value.ToString();
-            //tb_Ma_tac_gia.Text = dataGridView1_sach.CurrentRow.Cells["Ma_tac_gia"].Value.ToString();
+            tb_Ma_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ma_sach"].Value.ToString();
+            tb_Ten_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ten_sach"].Value.ToString();
+            tb_Ma_tac_gia.Text = dataGridView1_sach.CurrentRow.Cells["Ma_tac_gia"].Value.ToString();
 
-            //HienThongTinLenGridLookUpEditValue(tb_Ten_tac_gia, list_matacgia, tb_Ma_tac_gia.Text);
-            //string cmd = "SELECT Ten_tac_gia FROM dbo.Tac_gia WHERE Ma_tac_gia = " + "'" + tb_Ma_tac_gia.Text + "'";
+            HienThongTinLenGridLookUpEditValue(tb_Ten_tac_gia, list_matacgia, tb_Ma_tac_gia.Text);
+            string cmd = "SELECT Ten_tac_gia FROM dbo.Tac_gia WHERE Ma_tac_gia = " + "'" + tb_Ma_tac_gia.Text + "'";
 
-            //tb_Ma_NXB.Text = dataGridView1_sach.CurrentRow.Cells["Ma_NXB"].Value.ToString();
-            ////tb_Ten_NXB.Text = dataGridView1_sach.CurrentRow.Cells["GIOITINH"].Value.ToString();
-            //HienThongTinLenGridLookUpEditValue(tb_Ten_NXB, list_manxb, tb_Ma_NXB.Text);
-            //cmd = "SELECT Ten_NXB FROM dbo.NXB WHERE Ma_NXB = " + "'" + tb_Ma_NXB.Text + "'";
+            tb_Ma_NXB.Text = dataGridView1_sach.CurrentRow.Cells["Ma_NXB"].Value.ToString();
+            //tb_Ten_NXB.Text = dataGridView1_sach.CurrentRow.Cells["GIOITINH"].Value.ToString();
+            HienThongTinLenGridLookUpEditValue(tb_Ten_NXB, list_manxb, tb_Ma_NXB.Text);
+            cmd = "SELECT Ten_NXB FROM dbo.NXB WHERE Ma_NXB = " + "'" + tb_Ma_NXB.Text + "'";
 
 
-            //tb_Ma_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["Ma_the_loai"].Value.ToString();
-            ////tb_Ten_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["LUONG"].Value.ToString();
-            //HienThongTinLenGridLookUpEditValue(tb_Ten_the_loai, list_matheloai, tb_Ma_the_loai.Text);
-            //cmd = "SELECT Ma_the_loai FROM dbo.The_loai WHERE Ma_the_loai = " + "'" + tb_Ma_the_loai.Text + "'";
+            tb_Ma_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["Ma_the_loai"].Value.ToString();
+            //tb_Ten_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["LUONG"].Value.ToString();
+            HienThongTinLenGridLookUpEditValue(tb_Ten_the_loai, list_matheloai, tb_Ma_the_loai.Text);
+            cmd = "SELECT Ma_the_loai FROM dbo.The_loai WHERE Ma_the_loai = " + "'" + tb_Ma_the_loai.Text + "'";
 
-            //tb_nam_XB.Text = dataGridView1_sach.CurrentRow.Cells["Nam_xuat_ban"].Value.ToString();
+            tb_nam_XB.Text = dataGridView1_sach.CurrentRow.Cells["Nam_xuat_ban"].Value.ToString();
 
-            //tb_Ma_sach.ReadOnly = true;
-            //tb_Ten_sach.ReadOnly = true;
-            //tb_Ma_tac_gia.ReadOnly = true;
-            //tb_Ten_tac_gia.ReadOnly = true;
-            //tb_Ma_NXB.ReadOnly = true;
-            //tb_Ten_NXB.ReadOnly = true;
-            //tb_Ma_the_loai.ReadOnly = true;
-            //tb_Ten_the_loai.ReadOnly = true;
-            //tb_nam_XB.ReadOnly = true;
+            tb_Ma_sach.ReadOnly = true;
+            tb_Ten_sach.ReadOnly = true;
+            tb_Ma_tac_gia.ReadOnly = true;
+            tb_Ten_tac_gia.ReadOnly = true;
+            tb_Ma_NXB.ReadOnly = true;
+            tb_Ten_NXB.ReadOnly = true;
+            tb_Ma_the_loai.ReadOnly = true;
+            tb_Ten_the_loai.ReadOnly = true;
+            tb_nam_XB.ReadOnly = true;
         }
 
         private void bt_them_Click(object sender, EventArgs e)
         {
-            ////hien button cap nhat
-            //bt_cap_nhat.Visible = true;
+            //hien button cap nhat
+            bt_cap_nhat.Visible = true;
 
-            ////hien button them cac thanh phan lien quan
-            //bt_them_tac_gia.Visible = true;
-            //bt_them_NXB.Visible = true;
-            //bt_them_the_loai.Visible = true;
+            //hien button them cac thanh phan lien quan
+            bt_them_tac_gia.Visible = true;
+            bt_them_NXB.Visible = true;
+            bt_them_the_loai.Visible = true;
 
-            ////cap nhat trang thai
-            //status = 1;
-
-
-            ////go bo readonly  tb_Mabs.ReadOnly = true;
-            //tb_Ma_sach.ReadOnly = true; //phuc vu danh ma tu doong
-            //tb_Ten_sach.ReadOnly = false;
-            //tb_Ma_tac_gia.ReadOnly = true;  //tu cap nhat ma
-            //tb_Ten_tac_gia.ReadOnly = false;
-            //tb_Ma_NXB.ReadOnly = true;    //tu cap nhat ma
-            //tb_Ten_NXB.ReadOnly = false;
-            //tb_Ma_the_loai.ReadOnly = true;  //tu cap nhat ma
-            //tb_Ten_the_loai.ReadOnly = false;
-            //tb_nam_XB.ReadOnly = false;
+            //cap nhat trang thai
+            status = 1;
 
 
-            ////xoa cac thong tin co trong box di
-            //tb_Ma_sach.Text = danh_ma_tu_dong(); //phuc vu danh ma tu doong
-            //tb_Ten_sach.Text = "";
-            //tb_Ma_tac_gia.Text = "";
-            //tb_Ten_tac_gia.Text = "";
-            //tb_Ma_NXB.Text = "";
-            //tb_Ten_NXB.Text = "";
-            //tb_Ma_the_loai.Text = "";
-            //tb_Ten_the_loai.Text = "";
-            //tb_nam_XB.Text = "";
+            //go bo readonly  tb_Mabs.ReadOnly = true;
+            tb_Ma_sach.ReadOnly = true; //phuc vu danh ma tu doong
+            tb_Ten_sach.ReadOnly = false;
+            tb_Ma_tac_gia.ReadOnly = true;  //tu cap nhat ma
+            tb_Ten_tac_gia.ReadOnly = false;
+            tb_Ma_NXB.ReadOnly = true;    //tu cap nhat ma
+            tb_Ten_NXB.ReadOnly = false;
+            tb_Ma_the_loai.ReadOnly = true;  //tu cap nhat ma
+            tb_Ten_the_loai.ReadOnly = false;
+            tb_nam_XB.ReadOnly = false;
+
+
+            //xoa cac thong tin co trong box di
+            tb_Ma_sach.Text = danh_ma_tu_dong(); //phuc vu danh ma tu doong
+            tb_Ten_sach.Text = "";
+            tb_Ma_tac_gia.Text = "";
+            tb_Ten_tac_gia.Text = "";
+            tb_Ma_NXB.Text = "";
+            tb_Ten_NXB.Text = "";
+            tb_Ma_the_loai.Text = "";
+            tb_Ten_the_loai.Text = "";
+            tb_nam_XB.Text = "";
 
         }
 
@@ -413,18 +413,18 @@ namespace QUAN_LY_THU_VIEN.Sách
 
         private void searchControl1_TextChanged(object sender, EventArgs e)
         {
-            //DataView DV = new DataView(GetAllSach().Tables[0]);
-            //if (searchControl1.Text != "")
-            //{
-            //    DV.RowFilter = string.Format("Ten_sach LIKE '%{0}%'", searchControl1.Text);
-            //    dataGridView1_sach.DataSource = DV;
-            //    dataGridView1_sach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            //}
-            //else
-            //{
-            //    dataGridView1_sach.DataSource = GetAllSach().Tables[0];
-            //    dataGridView1_sach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            //}
+            DataView DV = new DataView(GetAllSach().Tables[0]);
+            if (searchControl1.Text != "")
+            {
+                DV.RowFilter = string.Format("Ten_sach LIKE '%{0}%'", searchControl1.Text);
+                dataGridView1_sach.DataSource = DV;
+                dataGridView1_sach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            }
+            else
+            {
+                dataGridView1_sach.DataSource = GetAllSach().Tables[0];
+                dataGridView1_sach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            }
         }
 
         private void bt_them_tac_gia_Click(object sender, EventArgs e)
