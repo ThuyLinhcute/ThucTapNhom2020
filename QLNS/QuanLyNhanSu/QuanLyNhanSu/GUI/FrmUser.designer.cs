@@ -68,7 +68,7 @@
                this.btnSua.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnSua.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.ImageOptions.Image")));
                this.btnSua.Location = new System.Drawing.Point(1373, 423);
-               this.btnSua.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnSua.Margin = new System.Windows.Forms.Padding(4);
                this.btnSua.Name = "btnSua";
                this.btnSua.Size = new System.Drawing.Size(179, 53);
                this.btnSua.TabIndex = 13;
@@ -80,7 +80,7 @@
                this.btnThem.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnThem.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("btnThem.ImageOptions.SvgImage")));
                this.btnThem.Location = new System.Drawing.Point(1143, 423);
-               this.btnThem.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnThem.Margin = new System.Windows.Forms.Padding(4);
                this.btnThem.Name = "btnThem";
                this.btnThem.Size = new System.Drawing.Size(199, 53);
                this.btnThem.TabIndex = 12;
@@ -92,7 +92,7 @@
                this.btnXoa.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnXoa.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.ImageOptions.Image")));
                this.btnXoa.Location = new System.Drawing.Point(1143, 493);
-               this.btnXoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
                this.btnXoa.Name = "btnXoa";
                this.btnXoa.Size = new System.Drawing.Size(409, 53);
                this.btnXoa.TabIndex = 11;
@@ -104,7 +104,7 @@
                this.btnDong.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnDong.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDong.ImageOptions.Image")));
                this.btnDong.Location = new System.Drawing.Point(1143, 554);
-               this.btnDong.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnDong.Margin = new System.Windows.Forms.Padding(4);
                this.btnDong.Name = "btnDong";
                this.btnDong.Size = new System.Drawing.Size(409, 53);
                this.btnDong.TabIndex = 10;
@@ -122,9 +122,9 @@
                this.groupBox1.Controls.Add(this.label2);
                this.groupBox1.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.groupBox1.Location = new System.Drawing.Point(963, 148);
-               this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox1.Name = "groupBox1";
-               this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox1.Size = new System.Drawing.Size(680, 196);
                this.groupBox1.TabIndex = 9;
                this.groupBox1.TabStop = false;
@@ -137,7 +137,7 @@
             "Admin",
             "User"});
                this.cboPhanQuyen.Location = new System.Drawing.Point(180, 126);
-               this.cboPhanQuyen.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cboPhanQuyen.Margin = new System.Windows.Forms.Padding(4);
                this.cboPhanQuyen.Name = "cboPhanQuyen";
                this.cboPhanQuyen.Size = new System.Drawing.Size(425, 24);
                this.cboPhanQuyen.TabIndex = 5;
@@ -156,7 +156,7 @@
                // txbMatKhau
                // 
                this.txbMatKhau.Location = new System.Drawing.Point(180, 90);
-               this.txbMatKhau.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.txbMatKhau.Margin = new System.Windows.Forms.Padding(4);
                this.txbMatKhau.Name = "txbMatKhau";
                this.txbMatKhau.Size = new System.Drawing.Size(425, 23);
                this.txbMatKhau.TabIndex = 3;
@@ -175,7 +175,7 @@
                // txbTenDangNhap
                // 
                this.txbTenDangNhap.Location = new System.Drawing.Point(180, 54);
-               this.txbTenDangNhap.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.txbTenDangNhap.Margin = new System.Windows.Forms.Padding(4);
                this.txbTenDangNhap.Name = "txbTenDangNhap";
                this.txbTenDangNhap.Size = new System.Drawing.Size(425, 23);
                this.txbTenDangNhap.TabIndex = 1;
@@ -193,14 +193,14 @@
                // 
                // dgrQuanLyNguoiDung
                // 
-               this.dgrQuanLyNguoiDung.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.dgrQuanLyNguoiDung.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
                this.dgrQuanLyNguoiDung.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                gridLevelNode1.RelationName = "Level1";
                this.dgrQuanLyNguoiDung.LevelTree.Nodes.AddRange(new DevExpress.XtraGrid.GridLevelNode[] {
             gridLevelNode1});
                this.dgrQuanLyNguoiDung.Location = new System.Drawing.Point(20, 42);
                this.dgrQuanLyNguoiDung.MainView = this.grvQuanLyNguoiDung;
-               this.dgrQuanLyNguoiDung.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.dgrQuanLyNguoiDung.Margin = new System.Windows.Forms.Padding(4);
                this.dgrQuanLyNguoiDung.Name = "dgrQuanLyNguoiDung";
                this.dgrQuanLyNguoiDung.Size = new System.Drawing.Size(889, 597);
                this.dgrQuanLyNguoiDung.TabIndex = 8;
@@ -233,7 +233,7 @@
                // 
                // Ten
                // 
-               this.Ten.Caption = "mật khẩu";
+               this.Ten.Caption = "Mật khẩu";
                this.Ten.FieldName = "PASSWORD";
                this.Ten.MinWidth = 27;
                this.Ten.Name = "Ten";
@@ -264,7 +264,7 @@
                this.Controls.Add(this.groupBox1);
                this.Controls.Add(this.dgrQuanLyNguoiDung);
                this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-               this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Margin = new System.Windows.Forms.Padding(4);
                this.Name = "FrmUser";
                this.Text = "FrmUser";
                this.groupBox1.ResumeLayout(false);

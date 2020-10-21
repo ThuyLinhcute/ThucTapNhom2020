@@ -41,9 +41,9 @@ namespace QuanLyNhanSu.GUI
                 DateTime ngay = dtpNgay.DateTime;
                 int loai = cboLoai.SelectedIndex;
                 if (ThongKeDAO.InsertChamCong(idnv, ngay, loai) == 1)
-                    MessageBox.Show("thành công");
+                    MessageBox.Show("Thành công");
                 else
-                    MessageBox.Show("thất bại");
+                    MessageBox.Show("Thất bại");
                 list.DataSource = ThongKeDAO.LoadChamCong(idnv, cboThang.SelectedIndex + 1);
             }
             catch
