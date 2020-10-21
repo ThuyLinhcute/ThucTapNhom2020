@@ -293,66 +293,66 @@ namespace QUAN_LY_THU_VIEN.Sách
 
         private void bt_cap_nhat_Click(object sender, EventArgs e)
         {
-            //int giatri = 0;
+            int giatri = 0;
 
-            ////hien message box 
-            //if (giatri == 0)
-            //{
-            //    System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập nhật cuốn sách này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            //    if (result == System.Windows.Forms.DialogResult.Yes)
-            //    {
-            //        MessageBox.Show("ban chon yess");
-            //        if (status == 1)
-            //        {
-            //            Insert_Sach();
-            //        }
-            //        else if (status == 2)
-            //        {
-            //            Update_Sach();
-            //        }
+            //hien message box 
+            if (giatri == 0)
+            {
+                System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập nhật cuốn sách này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == System.Windows.Forms.DialogResult.Yes)
+                {
+                    MessageBox.Show("ban chon yess");
+                    if (status == 1)
+                    {
+                        Insert_Sach();
+                    }
+                    else if (status == 2)
+                    {
+                        Update_Sach();
+                    }
 
-            //        //reload
-            //        Sach_Load(panel1, e);
+                    //reload
+                    Sach_Load(panel1, e);
 
-            //    }
-            //    else if (result == System.Windows.Forms.DialogResult.No)
-            //    {
-            //        MessageBox.Show("ban chon no");
-            //    }
-            //}
+                }
+                else if (result == System.Windows.Forms.DialogResult.No)
+                {
+                    MessageBox.Show("ban chon no");
+                }
+            }
         }
 
 
         public void Insert_Sach()
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("them_Sach", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    //them parameter 
-            //    cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@tensach", tb_Ten_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_tacgia", tb_Ma_tac_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_NXB", tb_Ma_NXB.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_theloai", tb_Ma_the_loai.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@namXB", tb_nam_XB.Text));
-               
+            SqlConnection con = new SqlConnection(connectionString.connectionstring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("them_Sach", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            try
+            {
+                //them parameter 
+                cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
+                cmd.Parameters.Add(new SqlParameter("@tensach", tb_Ten_sach.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_tacgia", tb_Ma_tac_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_NXB", tb_Ma_NXB.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_theloai", tb_Ma_the_loai.Text));
+                cmd.Parameters.Add(new SqlParameter("@namXB", tb_nam_XB.Text));
 
-            //    //chay
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException)
-            //{
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Khong them duoc");
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //    cmd.Dispose();
-            //}
+
+                //chay
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException)
+            {
+                System.Windows.Forms.DialogResult d;
+                d = MessageBox.Show("Khong them duoc");
+            }
+            finally
+            {
+                con.Close();
+                cmd.Dispose();
+            }
 
 
         }
@@ -361,35 +361,35 @@ namespace QUAN_LY_THU_VIEN.Sách
 
         public void Update_Sach()
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("sua_Sach", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    //them parameter
-            //    cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@tensach", tb_Ten_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_tacgia", tb_Ma_tac_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_NXB", tb_Ma_NXB.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_theloai", tb_Ma_the_loai.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@namXB", tb_nam_XB.Text));
+            SqlConnection con = new SqlConnection(connectionString.connectionstring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("sua_Sach", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            try
+            {
+                //them parameter
+                cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
+                cmd.Parameters.Add(new SqlParameter("@tensach", tb_Ten_sach.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_tacgia", tb_Ma_tac_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_NXB", tb_Ma_NXB.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_theloai", tb_Ma_the_loai.Text));
+                cmd.Parameters.Add(new SqlParameter("@namXB", tb_nam_XB.Text));
 
-            //    //chay
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException)
-            //{
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Khong sua duoc");
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //    cmd.Dispose();
-            //}
+                //chay
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException)
+            {
+                System.Windows.Forms.DialogResult d;
+                d = MessageBox.Show("Khong sua duoc");
+            }
+            finally
+            {
+                con.Close();
+                cmd.Dispose();
+            }
 
-         
+
         }
 
         private string danh_ma_tu_dong()
@@ -481,28 +481,28 @@ namespace QUAN_LY_THU_VIEN.Sách
 
         private void bt_xoa_Click(object sender, EventArgs e)
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("xoa_sach", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException ex)
-            //{
+            SqlConnection con = new SqlConnection(connectionString.connectionstring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("xoa_sach", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            try
+            {
+                cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException ex)
+            {
 
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Thao tác không thành công", "Warning message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //}
+                System.Windows.Forms.DialogResult d;
+                d = MessageBox.Show("Thao tác không thành công", "Warning message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            finally
+            {
+                con.Close();
+            }
 
-            ////reload
-            //Sach_Load(panel1, e);
+            //reload
+            Sach_Load(panel1, e);
         }
 
    
