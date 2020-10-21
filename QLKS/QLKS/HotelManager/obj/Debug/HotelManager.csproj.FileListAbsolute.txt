@@ -1,0 +1,182 @@
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csprojResolveAssemblyReference.cache
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\Trinh Thi Quynh\Desktop\Ky 1 nam 4\Thực tập nhóm_TH14\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.Cache
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.exe.config
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.exe
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.pdb
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\bin\Debug\FlashControlV71.dll
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAbout.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAccess.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddService.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fParameter.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReport.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fRoom.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBill.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fManagement.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fLogin.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fProfile.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fService.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fStaff.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fUseService.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.exe
+F:\nam4_ky1\ThucTapNhom\ttnhom_tra\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.pdb
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.exe.config
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.exe
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\bin\Debug\HotelManager.pdb
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\bin\Debug\FlashControlV71.dll
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAbout.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAccess.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddService.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fParameter.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fRoom.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBill.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fManagement.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fLogin.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fService.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fStaff.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.fUseService.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.exe
+H:\Nam4_Ky1 a trà\ThucTapNhom\ttnhom_51\QLKS-master\QLKS-master\HotelManager\obj\Debug\HotelManager.pdb
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAbout.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddService.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fParameter.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fRoom.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBill.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fManagement.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fLogin.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fService.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fStaff.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fUseService.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.exe
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.pdb
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.exe.config
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.exe
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.pdb
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\FlashControlV71.dll
+H:\năm 4\thực tập nhóm\thực tập_2020\lần 6\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.exe.config
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.exe
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\HotelManager.pdb
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\bin\Debug\FlashControlV71.dll
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAbout.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddService.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fParameter.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBill.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fManagement.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fLogin.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fService.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fStaff.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.fUseService.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.exe
+D:\Git\ThucTapNhom2020\QLKS\QLKS\HotelManager\obj\Debug\HotelManager.pdb
