@@ -69,7 +69,7 @@
             // 
             this.btnLuu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnLuu.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLuu.Location = new System.Drawing.Point(1305, 515);
+            this.btnLuu.Location = new System.Drawing.Point(1104, 478);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(178, 44);
             this.btnLuu.TabIndex = 35;
@@ -81,7 +81,7 @@
             // 
             this.btnXoa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoa.Location = new System.Drawing.Point(1304, 433);
+            this.btnXoa.Location = new System.Drawing.Point(1104, 403);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(178, 44);
             this.btnXoa.TabIndex = 34;
@@ -93,7 +93,7 @@
             // 
             this.btnSua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnSua.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSua.Location = new System.Drawing.Point(1304, 351);
+            this.btnSua.Location = new System.Drawing.Point(1104, 328);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(178, 44);
             this.btnSua.TabIndex = 33;
@@ -105,7 +105,7 @@
             // 
             this.btnHuy.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnHuy.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHuy.Location = new System.Drawing.Point(1305, 597);
+            this.btnHuy.Location = new System.Drawing.Point(1104, 553);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(178, 44);
             this.btnHuy.TabIndex = 36;
@@ -155,7 +155,7 @@
             this.groupBox2.ForeColor = System.Drawing.Color.Red;
             this.groupBox2.Location = new System.Drawing.Point(5, 144);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(1479, 89);
+            this.groupBox2.Size = new System.Drawing.Size(1311, 89);
             this.groupBox2.TabIndex = 30;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Tìm kiếm";
@@ -182,7 +182,7 @@
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dataGridView1.RowTemplate.DefaultCellStyle.ForeColor = System.Drawing.Color.Black;
-            this.dataGridView1.Size = new System.Drawing.Size(1287, 429);
+            this.dataGridView1.Size = new System.Drawing.Size(1074, 382);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellEnter);
             // 
@@ -193,7 +193,7 @@
             this.groupBox3.ForeColor = System.Drawing.Color.Red;
             this.groupBox3.Location = new System.Drawing.Point(5, 239);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(1293, 456);
+            this.groupBox3.Size = new System.Drawing.Size(1080, 409);
             this.groupBox3.TabIndex = 32;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Danh sách phiếu xuất";
@@ -202,7 +202,7 @@
             // 
             this.btnThem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThem.Location = new System.Drawing.Point(1304, 269);
+            this.btnThem.Location = new System.Drawing.Point(1104, 253);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(178, 44);
             this.btnThem.TabIndex = 31;
@@ -214,7 +214,7 @@
             // 
             this.txtPXID.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPXID.ForeColor = System.Drawing.Color.Black;
-            this.txtPXID.Location = new System.Drawing.Point(723, 117);
+            this.txtPXID.Location = new System.Drawing.Point(662, 115);
             this.txtPXID.Name = "txtPXID";
             this.txtPXID.Size = new System.Drawing.Size(163, 28);
             this.txtPXID.TabIndex = 26;
@@ -224,7 +224,7 @@
             // 
             this.txtNVID.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNVID.ForeColor = System.Drawing.Color.Black;
-            this.txtNVID.Location = new System.Drawing.Point(723, 9);
+            this.txtNVID.Location = new System.Drawing.Point(662, 7);
             this.txtNVID.Name = "txtNVID";
             this.txtNVID.Size = new System.Drawing.Size(163, 28);
             this.txtNVID.TabIndex = 25;
@@ -244,7 +244,7 @@
             // 
             this.btnNhanvien.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNhanvien.ForeColor = System.Drawing.Color.Black;
-            this.btnNhanvien.Location = new System.Drawing.Point(893, 36);
+            this.btnNhanvien.Location = new System.Drawing.Point(832, 34);
             this.btnNhanvien.Name = "btnNhanvien";
             this.btnNhanvien.Size = new System.Drawing.Size(31, 21);
             this.btnNhanvien.TabIndex = 23;
@@ -271,7 +271,7 @@
             this.btnChitietPX.BackColor = System.Drawing.Color.LightGray;
             this.btnChitietPX.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnChitietPX.ForeColor = System.Drawing.Color.Black;
-            this.btnChitietPX.Location = new System.Drawing.Point(1257, 84);
+            this.btnChitietPX.Location = new System.Drawing.Point(1031, 81);
             this.btnChitietPX.Name = "btnChitietPX";
             this.btnChitietPX.Size = new System.Drawing.Size(199, 25);
             this.btnChitietPX.TabIndex = 21;
@@ -291,7 +291,7 @@
             // 
             this.txtTongsoluong.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTongsoluong.ForeColor = System.Drawing.Color.Black;
-            this.txtTongsoluong.Location = new System.Drawing.Point(1362, 29);
+            this.txtTongsoluong.Location = new System.Drawing.Point(1136, 26);
             this.txtTongsoluong.Name = "txtTongsoluong";
             this.txtTongsoluong.ReadOnly = true;
             this.txtTongsoluong.Size = new System.Drawing.Size(94, 28);
@@ -302,7 +302,7 @@
             this.email.AutoSize = true;
             this.email.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.email.ForeColor = System.Drawing.Color.Black;
-            this.email.Location = new System.Drawing.Point(1232, 35);
+            this.email.Location = new System.Drawing.Point(1006, 32);
             this.email.Name = "email";
             this.email.Size = new System.Drawing.Size(124, 21);
             this.email.TabIndex = 11;
@@ -313,7 +313,7 @@
             this.label.AutoSize = true;
             this.label.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label.ForeColor = System.Drawing.Color.Black;
-            this.label.Location = new System.Drawing.Point(610, 93);
+            this.label.Location = new System.Drawing.Point(549, 91);
             this.label.Name = "label";
             this.label.Size = new System.Drawing.Size(85, 21);
             this.label.TabIndex = 9;
@@ -323,7 +323,7 @@
             // 
             this.txtTongtien.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTongtien.ForeColor = System.Drawing.Color.Black;
-            this.txtTongtien.Location = new System.Drawing.Point(723, 90);
+            this.txtTongtien.Location = new System.Drawing.Point(662, 88);
             this.txtTongtien.Name = "txtTongtien";
             this.txtTongtien.ReadOnly = true;
             this.txtTongtien.Size = new System.Drawing.Size(163, 28);
@@ -334,7 +334,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(671, 96);
+            this.label5.Location = new System.Drawing.Point(610, 94);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(0, 21);
             this.label5.TabIndex = 7;
@@ -343,7 +343,7 @@
             // 
             this.txtNhanvien.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNhanvien.ForeColor = System.Drawing.Color.Black;
-            this.txtNhanvien.Location = new System.Drawing.Point(723, 36);
+            this.txtNhanvien.Location = new System.Drawing.Point(662, 34);
             this.txtNhanvien.Name = "txtNhanvien";
             this.txtNhanvien.Size = new System.Drawing.Size(163, 28);
             this.txtNhanvien.TabIndex = 6;
@@ -353,7 +353,7 @@
             this.diachi.AutoSize = true;
             this.diachi.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diachi.ForeColor = System.Drawing.Color.Black;
-            this.diachi.Location = new System.Drawing.Point(610, 38);
+            this.diachi.Location = new System.Drawing.Point(549, 36);
             this.diachi.Name = "diachi";
             this.diachi.Size = new System.Drawing.Size(88, 21);
             this.diachi.TabIndex = 5;
@@ -411,7 +411,7 @@
             this.groupBox1.ForeColor = System.Drawing.Color.Black;
             this.groupBox1.Location = new System.Drawing.Point(5, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1479, 137);
+            this.groupBox1.Size = new System.Drawing.Size(1311, 137);
             this.groupBox1.TabIndex = 29;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin phiếu xuất";
@@ -440,7 +440,7 @@
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.groupBox1);
             this.Name = "Phieuxuat";
-            this.Size = new System.Drawing.Size(1487, 698);
+            this.Size = new System.Drawing.Size(1323, 698);
             this.Load += new System.EventHandler(this.Phieuxuat_Load_1);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
