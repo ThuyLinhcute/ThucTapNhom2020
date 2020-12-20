@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraBars;
 using DevExpress.XtraEditors;
+using TTNhom_QuanLyHocSinh.QLHocSinh;
 
 namespace TTNhom_QuanLyHocSinh.Views
 {
@@ -22,8 +23,16 @@ namespace TTNhom_QuanLyHocSinh.Views
 
         public void barButtonItemQLHocSinh_ItemClick(object sender, ItemClickEventArgs e)
         {
-            
-        }
+               QLHS qLHS = new QLHS();
+
+               qLHS.TopLevel = false;
+               panelMain.Controls.Clear();
+               panelMain.Dock = DockStyle.Fill;
+               panelMain.Controls.Add(qLHS);
+               qLHS.Dock = DockStyle.Fill;
+               qLHS.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+               qLHS.Show();
+          }
 
         private void barButtonItemGiaoVien_ItemClick(object sender, ItemClickEventArgs e)
         {
