@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using DevExpress.XtraBars;
 using DevExpress.XtraEditors;
 using TTNhom_QuanLyHocSinh.QLHocSinh;
+using TTNhom_QuanLyHocSinh.QLGiaoVien;
 
 namespace TTNhom_QuanLyHocSinh.Views
 {
@@ -36,7 +37,14 @@ namespace TTNhom_QuanLyHocSinh.Views
 
         private void barButtonItemGiaoVien_ItemClick(object sender, ItemClickEventArgs e)
         {
-           
+            QLGV qLGV = new QLGV();
+            qLGV.TopLevel = false;
+            panelMain.Controls.Clear();
+            panelMain.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(qLGV);
+            qLGV.Dock = DockStyle.Fill;
+            qLGV.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            qLGV.Show();
         }
 
         private void barButtonItemQLLop_Diem_ItemClick(object sender, ItemClickEventArgs e)
