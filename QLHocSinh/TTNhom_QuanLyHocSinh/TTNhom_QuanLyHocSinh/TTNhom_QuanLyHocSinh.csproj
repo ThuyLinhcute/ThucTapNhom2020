@@ -56,6 +56,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CSDL\connection.cs" />
+    <Compile Include="Object\GiaoVien.cs" />
+    <Compile Include="Object\GiaoVienSql.cs" />
     <Compile Include="Object\HocSinh.cs" />
     <Compile Include="Object\HocSinhSql.cs" />
     <Compile Include="Object\User.cs" />
@@ -79,6 +81,18 @@
     </Compile>
     <Compile Include="FormChung\QuanLyChung.designer.cs">
       <DependentUpon>QuanLyChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaoVien\QLGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiaoVien\QLGV.designer.cs">
+      <DependentUpon>QLGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaoVien\ThongTinChiTietGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLGiaoVien\ThongTinChiTietGV.designer.cs">
+      <DependentUpon>ThongTinChiTietGV.cs</DependentUpon>
     </Compile>
     <Compile Include="QLHocSinh\QLHS.cs">
       <SubType>Form</SubType>
@@ -112,6 +126,12 @@
     <EmbeddedResource Include="FormChung\QuanLyChung.resx">
       <DependentUpon>QuanLyChung.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="QLGiaoVien\QLGV.resx">
+      <DependentUpon>QLGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLGiaoVien\ThongTinChiTietGV.resx">
+      <DependentUpon>ThongTinChiTietGV.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="QLHocSinh\QLHS.resx">
       <DependentUpon>QLHS.cs</DependentUpon>
     </EmbeddedResource>
@@ -133,7 +153,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="QLGiangDay\QLLop\" />
-    <Folder Include="QLGiaoVien\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\diem.png" />
