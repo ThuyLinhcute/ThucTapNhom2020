@@ -126,24 +126,24 @@ namespace QuanLyNhanSu
 
         private void barThongTinGiaDinh_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmThongTinGiaDinh frmtg = new FrmThongTinGiaDinh();
+            FrmThongTinGiaDinh frmtg = new FrmThongTinGiaDinh();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
 
 
 
         private void barThongTinKhenThuongKiLuat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmKhenThuongKiLuat frmtg = new FrmKhenThuongKiLuat();
+            FrmKhenThuongKiLuat frmtg = new FrmKhenThuongKiLuat();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }        
 
         private void barThongKeTheoNhanVien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -158,12 +158,12 @@ namespace QuanLyNhanSu
 
         private void barChamCong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmChamCong frmtg = new FrmChamCong();
+            FrmChamCong frmtg = new FrmChamCong();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
 
         private void barTinhLuong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -208,12 +208,12 @@ namespace QuanLyNhanSu
 
         private void barQLChamCong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmChamCong frmtg = new FrmChamCong();
+            FrmChamCong frmtg = new FrmChamCong();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
         private void barUser_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
