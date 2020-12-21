@@ -1,682 +1,102 @@
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CoreCompileInputs.cache
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.ThongTinChiTietHS.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.QLGV.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.ThongTinChiTietGV.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLyGiangDay.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietGiangDay.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLLop.QLyLop.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLLop.TTChiTietLop.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLDiem.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietDiem.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-D:\Visual Studio 2019\WinDows Forms\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CoreCompileInputs.cache
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-D:\Git\TTNhom_QuanLyHocSinh\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CoreCompileInputs.cache
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-D:\Git\TTNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.ThongTinChiTietHS.resources
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Admin\Documents\GitHub\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.ThongTinChiTietHS.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CoreCompileInputs.cache
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.QLGV.resources
-H:\năm 4\thực tập nhóm\thực tập_2020\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.ThongTinChiTietGV.resources
-<<<<<<< Updated upstream
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLyGiangDay.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietGiangDay.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.QLGV.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.ThongTinChiTietGV.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.ThongTinChiTietHS.resources
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\ThinkPad\Desktop\ThucTapNhom2020\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-=======
->>>>>>> Stashed changes
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csprojAssemblyReference.cache
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLDiem.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLyGiangDay.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietDiem.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietGiangDay.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.QLGV.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.ThongTinChiTietGV.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.ThongTinChiTietHS.resources
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
-C:\Users\Dell\Desktop\Thực tập nhóm\ThucTapNhom2020-1\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe.config
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.exe
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\TTNhom_QuanLyHocSinh.pdb
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Properties.Resources.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.DoiMatKhau.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.frmLogin.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.Views.QuanLyChung.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLDiem.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLLop.QLyLop.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLLop.TTChiTietLop.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.QLyGiangDay.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietDiem.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiangDay.TTChiTietGiangDay.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.QLGV.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLGiaoVien.ThongTinChiTietGV.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.QLHS.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.QLHocSinh.ThongTinChiTietHS.resources
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.GenerateResource.cache
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe.licenses
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.csproj.CopyComplete
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.exe
+E:\Code\Github\ThucTapNhom2020_2\QLHocSinh\TTNhom_QuanLyHocSinh\TTNhom_QuanLyHocSinh\obj\Debug\TTNhom_QuanLyHocSinh.pdb

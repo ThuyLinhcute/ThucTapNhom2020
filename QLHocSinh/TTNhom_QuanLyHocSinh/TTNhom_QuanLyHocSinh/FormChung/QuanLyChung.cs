@@ -80,7 +80,15 @@ namespace TTNhom_QuanLyHocSinh.Views
 
         private void barButtonItemqllop_ItemClick(object sender, ItemClickEventArgs e)
         {
-            
+            QLGiangDay.QLLop.QLyLop qLyLop = new QLGiangDay.QLLop.QLyLop();
+
+            qLyLop.TopLevel = false;
+            panelMain.Controls.Clear();
+            panelMain.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(qLyLop);
+            qLyLop.Dock = DockStyle.Fill;
+            qLyLop.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            qLyLop.Show();
         }
 
         private void barButtonItemdanguat_ItemClick(object sender, ItemClickEventArgs e)
