@@ -24,7 +24,10 @@ namespace TTNhom_QuanLyHocSinh
         public static GiaoVienSql giaoVienSql;
         public static GiaoVien gv;
         public static QLGV qLGV;
-       
+        public static GiangDay giangDay;
+        public static GiangDaySql giangDaySql;
+        public static Diem diem;
+        public static DiemSql diemSql;
         public static string mamonhoc;
         public static UserSql userSql;
         [STAThread]
@@ -41,6 +44,10 @@ namespace TTNhom_QuanLyHocSinh
             giaoVienSql = new GiaoVienSql();
             gv = new GiaoVien();
             qLGV = new QLGV();
+            giangDay = new GiangDay();
+            giangDaySql = new GiangDaySql();
+            diem = new Diem();
+            diemSql = new DiemSql();
             userSql = new UserSql();
             Application.Run(lg);
         }
