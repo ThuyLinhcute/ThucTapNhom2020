@@ -56,22 +56,22 @@ namespace QuanLyNhanSu
 
         private void barDanhMucPhongBan_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmQuanLyPhongBan frmtg = new FrmQuanLyPhongBan();
+            FrmQuanLyPhongBan frmtg = new FrmQuanLyPhongBan();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
 
         private void barQuanLyNhanVien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmQuanLyNhanVien frmtg = new FrmQuanLyNhanVien();
+            FrmQuanLyNhanVien frmtg = new FrmQuanLyNhanVien();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
 
         private void barBaoHiemXaHoi_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
