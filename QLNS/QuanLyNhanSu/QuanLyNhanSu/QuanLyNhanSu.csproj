@@ -79,7 +79,32 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BangCapDAO.cs" />
+    <Compile Include="DAO\BaoHiemXaHoiDAO.cs" />
+    <Compile Include="DAO\BaoHiemYTeDAO.cs" />
+    <Compile Include="DAO\ChucVuDAO.cs" />
+    <Compile Include="DAO\NhanVienDAO.cs" />
+    <Compile Include="DAO\QuaTrinhCongTacDAO.cs" />
+    <Compile Include="DAO\QuaTrinhHocTapDAO.cs" />
     <Compile Include="DTO\AccountDTO.cs" />
+    <Compile Include="GUI\FrmBangCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmBangCap.designer.cs">
+      <DependentUpon>FrmBangCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmBaoHiemXaHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmBaoHiemXaHoi.designer.cs">
+      <DependentUpon>FrmBaoHiemXaHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmBaoHiemYTe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmBaoHiemYTe.designer.cs">
+      <DependentUpon>FrmBaoHiemYTe.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,14 +118,50 @@
     <Compile Include="GUI\FrmMain.Designer.cs">
       <DependentUpon>FrmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\FrmQuanLyChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmQuanLyChucVu.designer.cs">
+      <DependentUpon>FrmQuanLyChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmQuaTrinhCongTac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmQuaTrinhCongTac.designer.cs">
+      <DependentUpon>FrmQuaTrinhCongTac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmQuaTrinhHocTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmQuaTrinhHocTap.designer.cs">
+      <DependentUpon>FrmQuaTrinhHocTap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\FrmBangCap.resx">
+      <DependentUpon>FrmBangCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmBaoHiemXaHoi.resx">
+      <DependentUpon>FrmBaoHiemXaHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmBaoHiemYTe.resx">
+      <DependentUpon>FrmBaoHiemYTe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmQuanLyChucVu.resx">
+      <DependentUpon>FrmQuanLyChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmQuaTrinhCongTac.resx">
+      <DependentUpon>FrmQuaTrinhCongTac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmQuaTrinhHocTap.resx">
+      <DependentUpon>FrmQuaTrinhHocTap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">

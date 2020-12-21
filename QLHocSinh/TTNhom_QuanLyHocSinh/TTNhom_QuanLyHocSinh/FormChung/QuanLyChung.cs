@@ -10,6 +10,9 @@ using System.Windows.Forms;
 using DevExpress.XtraBars;
 using DevExpress.XtraEditors;
 using TTNhom_QuanLyHocSinh.QLHocSinh;
+using TTNhom_QuanLyHocSinh.QLGiaoVien;
+using TTNhom_QuanLyHocSinh.Object;
+using TTNhom_QuanLyHocSinh.QLGiangDay;
 
 namespace TTNhom_QuanLyHocSinh.Views
 {
@@ -36,17 +39,41 @@ namespace TTNhom_QuanLyHocSinh.Views
 
         private void barButtonItemGiaoVien_ItemClick(object sender, ItemClickEventArgs e)
         {
-           
+            QLGV qLGV = new QLGV();
+            qLGV.TopLevel = false;
+            panelMain.Controls.Clear();
+            panelMain.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(qLGV);
+            qLGV.Dock = DockStyle.Fill;
+            qLGV.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            qLGV.Show();
         }
 
         private void barButtonItemQLLop_Diem_ItemClick(object sender, ItemClickEventArgs e)
         {
-           
+
+            QLDiem qLLop_Diem = new QLDiem();
+
+            qLLop_Diem.TopLevel = false;
+            panelMain.Controls.Clear();
+            panelMain.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(qLLop_Diem);
+            qLLop_Diem.Dock = DockStyle.Fill;
+            qLLop_Diem.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            qLLop_Diem.Show();
         }
 
         private void barButtonItemGiangDay_ItemClick(object sender, ItemClickEventArgs e)
         {
-            
+            QLyGiangDay giangDay = new QLyGiangDay();
+
+            giangDay.TopLevel = false;
+            panelMain.Controls.Clear();
+            panelMain.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(giangDay);
+            giangDay.Dock = DockStyle.Fill;
+            giangDay.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            giangDay.Show();
         }
 
         
