@@ -10,7 +10,7 @@ namespace DXApplication1.DataLayer
 {
     class DataAccess
     {
-        static public string _con = @"Data Source=DESKTOP-D355IUN\SQLEXPRESS;Initial Catalog=QLKho;Integrated Security=True;";
+        static public string _con = @"Data Source=DESKTOP-MU8BQAA\SQLEXPRESS;Initial Catalog=QLKho;Integrated Security=True";
 
         static SqlConnection con = new SqlConnection(_con);
         protected SqlConnection Connection

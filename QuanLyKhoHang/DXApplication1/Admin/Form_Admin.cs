@@ -165,9 +165,9 @@ namespace DXApplication1
           }
 
           private void barButtonItem13_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-          {
-               //panelMain.Controls.Clear();
-               //panelMain.Controls.Add(new Phieuxuat());
-          }
+        {
+            panelMain.Controls.Clear();
+            panelMain.Controls.Add(new Phieuxuat());
+        }
      }
 }
