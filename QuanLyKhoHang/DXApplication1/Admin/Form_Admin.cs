@@ -134,16 +134,11 @@ namespace DXApplication1
 
           private void barButtonItem9_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
           {
-               //Program.form_NCC = new Form_NCC();
 
-               //Program.form_NCC.TopLevel = false;
-               //panelMain.Controls.Clear();
-               ////panelMain.Dock = DockStyle.Fill;
-               //panelMain.Controls.Add(new Nhacungcap());
-               //Program.form_NCC.Dock = DockStyle.Fill;
-               //Program.form_NCC.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            panelMain.Controls.Clear();
 
-               //Program.form_NCC.Show();
+            panelMain.Controls.Add(new Nhacungcap());
+
           }
 
           private void barButtonItem10_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)

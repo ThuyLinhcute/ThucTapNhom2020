@@ -97,6 +97,7 @@
     <Compile Include="Models\connection.cs" />
     <Compile Include="Models\NguoiDung.cs" />
     <Compile Include="Models\NguoiDungSql.cs" />
+    <Compile Include="Models\Nhacungcap_SQL.cs" />
     <Compile Include="Models\Phieuxuat_SQL.cs" />
     <Compile Include="Models\Sanpham_SQL.cs" />
     <Compile Include="Models\ThongTinNguoiDung.cs" />
@@ -140,6 +141,12 @@
       <DependentUpon>Form_Admin.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\UserUtilizes.cs" />
+    <Compile Include="Views\User_Control\Nhacungcap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\User_Control\Nhacungcap.designer.cs">
+      <DependentUpon>Nhacungcap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\User_Control\Phieuxuat.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -177,6 +184,9 @@
       <DependentUpon>Form_Admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Views\User_Control\Nhacungcap.resx">
+      <DependentUpon>Nhacungcap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\User_Control\Phieuxuat.resx">
       <DependentUpon>Phieuxuat.cs</DependentUpon>
     </EmbeddedResource>
