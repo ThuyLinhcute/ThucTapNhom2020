@@ -159,15 +159,15 @@ namespace HotelManager
 
         private void metroTile8_Click(object sender, EventArgs e)
         {
-            //if (CheckAccess("fstaff"))
-            //{
-            //    this.Hide();
-            //    fStaff fProfile = new fStaff();
-            //    fProfile.ShowDialog();
-            //    this.Show();
-            //}
-            //else
-            //    MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            if (CheckAccess("fstaff"))
+            {
+                this.Hide();
+                fStaff fProfile = new fStaff();
+                fProfile.ShowDialog();
+                this.Show();
+            }
+            else
+                MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
         private void metroTile2_Click(object sender, EventArgs e)

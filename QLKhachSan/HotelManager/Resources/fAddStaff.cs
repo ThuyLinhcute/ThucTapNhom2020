@@ -72,7 +72,7 @@ namespace HotelManager
                     accountNow.PassWord = fStaff.HassPass;
                     if (AccountDAO.Instance.InsertAccount(accountNow))
                     {
-                        MessageBox.Show("Thêm Thành Công\n Mật khẩu mặc đinh cho tài khảon " + txbName.Text +
+                        MessageBox.Show("Thêm Thành Công\n Mật khẩu mặc đinh cho tài khoản " + txbName.Text +
                             ": 123456", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                     else
