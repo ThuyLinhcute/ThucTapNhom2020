@@ -26,6 +26,8 @@ namespace TTNhom_QuanLyHocSinh
         public static QLGV qLGV;
         public static GiangDay giangDay;
         public static GiangDaySql giangDaySql;
+        public static Lop lop;
+        public static LopSql lopSql;
         public static Diem diem;
         public static DiemSql diemSql;
         public static string mamonhoc;
@@ -46,6 +48,8 @@ namespace TTNhom_QuanLyHocSinh
             qLGV = new QLGV();
             giangDay = new GiangDay();
             giangDaySql = new GiangDaySql();
+            lop = new Lop();
+            lopSql = new LopSql();
             diem = new Diem();
             diemSql = new DiemSql();
             userSql = new UserSql();
