@@ -354,7 +354,6 @@
                this.Controls.Add(this.panelMain);
                this.Controls.Add(this.ribbonControl1);
                this.Margin = new System.Windows.Forms.Padding(4);
-               this.MaximizeBox = false;
                this.Name = "FrmMain";
                this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
                this.Text = "Quản lý nhân sự";

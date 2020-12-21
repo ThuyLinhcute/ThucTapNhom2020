@@ -217,13 +217,13 @@ namespace QuanLyNhanSu
         }
         private void barUser_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmUser frmtg = new FrmUser();
-            frmtg.TopLevel = false;
-            frmtg.Dock = DockStyle.Fill;
-            panelMain.Controls.Clear();
-            panelMain.Controls.Add(frmtg);
-            frmtg.Show()*/;
-        }
+          FrmUser frmtg = new FrmUser();
+          frmtg.TopLevel = false;
+          frmtg.Dock = DockStyle.Fill;
+          panelMain.Controls.Clear();
+          panelMain.Controls.Add(frmtg);
+          frmtg.Show();
+          }
           #endregion
 
           private void logOutbutton_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
