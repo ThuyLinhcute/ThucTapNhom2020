@@ -97,6 +97,16 @@ namespace HotelManager
 
         private void titlePay_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+            if (CheckAccess("fUseService"))
+            {
+                this.Hide();
+                fUseService f = new fUseService(userName);
+                f.ShowDialog();
+                this.Show();
+            }
+            else MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+=======
             //if (CheckAccess("fUseService"))
             //{
             //    this.Hide();
@@ -105,6 +115,7 @@ namespace HotelManager
             //    this.Show();
             //}
             //else MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
 
         }
 
@@ -132,6 +143,7 @@ namespace HotelManager
 
         private void metroTile17_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
                //if (CheckAccess("fcustomer"))
                //{
                //     this.Hide();
@@ -141,11 +153,33 @@ namespace HotelManager
                //}
                //else
                //     MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+=======
+               if (CheckAccess("fcustomer"))
+               {
+                   this.Hide();
+                   fCustomer customer = new fCustomer();
+                   customer.ShowDialog();
+                   this.Show();
+               }
+               else
+                   MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
 
         }
 
         private void metroTile13_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+            if (CheckAccess("fparameter"))
+            {
+                this.Hide();
+                fParameter parameter = new fParameter();
+                parameter.ShowDialog();
+                this.Show();
+            }
+            else
+                MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+=======
             //if (CheckAccess("fparameter"))
             //{
             //    this.Hide();
@@ -155,6 +189,7 @@ namespace HotelManager
             //}
             //else
             //    MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
         }
 
         private void metroTile8_Click(object sender, EventArgs e)
@@ -193,6 +228,7 @@ namespace HotelManager
 
         private void title_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //if (CheckAccess("freport"))
             //{
             //    this.Hide();
@@ -202,11 +238,23 @@ namespace HotelManager
             //}
             //else
             //    MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+=======
+            if (CheckAccess("freport"))
+            {
+               this.Hide();
+               fReport fAbout = new fReport();
+               fAbout.ShowDialog();
+               this.Show();
+            }
+            else
+               MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
 
         }
 
         private void metroTile16_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //if (CheckAccess("fBill"))
             //{
             //    this.Hide();
@@ -216,6 +264,17 @@ namespace HotelManager
             //}
             //else
             //    MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+=======
+            if (CheckAccess("fBill"))
+            {
+               this.Hide();
+               fBill fAbout = new fBill();
+               fAbout.ShowDialog();
+               this.Show();
+            }
+            else
+               MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+>>>>>>> d33bb03dc2edf1bf7f777b7fe4d851047eabcb28
         }
 
         private void panelRight_Paint(object sender, PaintEventArgs e)
