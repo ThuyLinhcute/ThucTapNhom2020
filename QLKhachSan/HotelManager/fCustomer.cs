@@ -37,11 +37,11 @@ namespace HotelManager
         }
         private void LoadFullCustomerType()
         {
-            //DataTable table = GetFullCustomerType();
-            //comboBoxCustomerType.DataSource = table;
-            //comboBoxCustomerType.DisplayMember = "Name";
-            //if(table.Rows.Count > 0)
-            //    comboBoxCustomerType.SelectedIndex = 0;
+            DataTable table = GetFullCustomerType();
+            comboBoxCustomerType.DataSource = table;
+            comboBoxCustomerType.DisplayMember = "Name";
+            if(table.Rows.Count > 0)
+                comboBoxCustomerType.SelectedIndex = 0;
         }
         #endregion
 
@@ -75,11 +75,11 @@ namespace HotelManager
         }
         private void BtnAddCustomer_Click(object sender, EventArgs e)
         {
-            //new fAddCustomer().ShowDialog();
-            //if (btnCancel.Visible == false)
-            //    LoadFullCustomer(GetFullCustomer());
-            //else
-            //    BtnCancel_Click(null, null);
+            new fAddCustomer().ShowDialog();
+            if (btnCancel.Visible == false)
+                LoadFullCustomer(GetFullCustomer());
+            else
+                BtnCancel_Click(null, null);
         }
         private void BindingNavigatorAddNewItem_Click(object sender, EventArgs e)
         {
@@ -269,10 +269,10 @@ namespace HotelManager
         {
             return CustomerDAO.Instance.LoadFullCustomer();
         }
-        //private DataTable GetFullCustomerType()
-        //{
-        //    return CustomerTypeDAO.Instance.LoadFullCustomerType();
-        //}
+        private DataTable GetFullCustomerType()
+        {
+            return CustomerTypeDAO.Instance.LoadFullCustomerType();
+        }
         /// <summary>
         /// --Mode is
         //--- 0 --- find along id
