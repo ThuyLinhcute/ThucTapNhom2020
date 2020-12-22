@@ -166,81 +166,81 @@ namespace QUAN_LY_THU_VIEN.Sách
         private void dataGridView1_sach_CellEnter(object sender, DataGridViewCellEventArgs e)
         {
 
-            ////an cai cap nhat di
-            //bt_cap_nhat.Visible = false;
+            //an cai cap nhat di
+            bt_cap_nhat.Visible = false;
 
-            ////an cac cai them di
-            //bt_them_tac_gia.Visible = false;
-            //bt_them_NXB.Visible = false;
-            //bt_them_the_loai.Visible = false;
+            //an cac cai them di
+            bt_them_tac_gia.Visible = false;
+            bt_them_NXB.Visible = false;
+            bt_them_the_loai.Visible = false;
 
-            //tb_Ma_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ma_sach"].Value.ToString();
-            //tb_Ten_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ten_sach"].Value.ToString();
-            //tb_Ma_tac_gia.Text = dataGridView1_sach.CurrentRow.Cells["Ma_tac_gia"].Value.ToString();
+            tb_Ma_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ma_sach"].Value.ToString();
+            tb_Ten_sach.Text = dataGridView1_sach.CurrentRow.Cells["Ten_sach"].Value.ToString();
+            tb_Ma_tac_gia.Text = dataGridView1_sach.CurrentRow.Cells["Ma_tac_gia"].Value.ToString();
 
-            //HienThongTinLenGridLookUpEditValue(tb_Ten_tac_gia, list_matacgia, tb_Ma_tac_gia.Text);
-            //string cmd = "SELECT Ten_tac_gia FROM dbo.Tac_gia WHERE Ma_tac_gia = " + "'" + tb_Ma_tac_gia.Text + "'";
+            HienThongTinLenGridLookUpEditValue(tb_Ten_tac_gia, list_matacgia, tb_Ma_tac_gia.Text);
+            string cmd = "SELECT Ten_tac_gia FROM dbo.Tac_gia WHERE Ma_tac_gia = " + "'" + tb_Ma_tac_gia.Text + "'";
 
-            //tb_Ma_NXB.Text = dataGridView1_sach.CurrentRow.Cells["Ma_NXB"].Value.ToString();
-            ////tb_Ten_NXB.Text = dataGridView1_sach.CurrentRow.Cells["GIOITINH"].Value.ToString();
-            //HienThongTinLenGridLookUpEditValue(tb_Ten_NXB, list_manxb, tb_Ma_NXB.Text);
-            //cmd = "SELECT Ten_NXB FROM dbo.NXB WHERE Ma_NXB = " + "'" + tb_Ma_NXB.Text + "'";
+            tb_Ma_NXB.Text = dataGridView1_sach.CurrentRow.Cells["Ma_NXB"].Value.ToString();
+            //tb_Ten_NXB.Text = dataGridView1_sach.CurrentRow.Cells["GIOITINH"].Value.ToString();
+            HienThongTinLenGridLookUpEditValue(tb_Ten_NXB, list_manxb, tb_Ma_NXB.Text);
+            cmd = "SELECT Ten_NXB FROM dbo.NXB WHERE Ma_NXB = " + "'" + tb_Ma_NXB.Text + "'";
 
 
-            //tb_Ma_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["Ma_the_loai"].Value.ToString();
-            ////tb_Ten_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["LUONG"].Value.ToString();
-            //HienThongTinLenGridLookUpEditValue(tb_Ten_the_loai, list_matheloai, tb_Ma_the_loai.Text);
-            //cmd = "SELECT Ma_the_loai FROM dbo.The_loai WHERE Ma_the_loai = " + "'" + tb_Ma_the_loai.Text + "'";
+            tb_Ma_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["Ma_the_loai"].Value.ToString();
+            //tb_Ten_the_loai.Text = dataGridView1_sach.CurrentRow.Cells["LUONG"].Value.ToString();
+            HienThongTinLenGridLookUpEditValue(tb_Ten_the_loai, list_matheloai, tb_Ma_the_loai.Text);
+            cmd = "SELECT Ma_the_loai FROM dbo.The_loai WHERE Ma_the_loai = " + "'" + tb_Ma_the_loai.Text + "'";
 
-            //tb_nam_XB.Text = dataGridView1_sach.CurrentRow.Cells["Nam_xuat_ban"].Value.ToString();
+            tb_nam_XB.Text = dataGridView1_sach.CurrentRow.Cells["Nam_xuat_ban"].Value.ToString();
 
-            //tb_Ma_sach.ReadOnly = true;
-            //tb_Ten_sach.ReadOnly = true;
-            //tb_Ma_tac_gia.ReadOnly = true;
-            //tb_Ten_tac_gia.ReadOnly = true;
-            //tb_Ma_NXB.ReadOnly = true;
-            //tb_Ten_NXB.ReadOnly = true;
-            //tb_Ma_the_loai.ReadOnly = true;
-            //tb_Ten_the_loai.ReadOnly = true;
-            //tb_nam_XB.ReadOnly = true;
+            tb_Ma_sach.ReadOnly = true;
+            tb_Ten_sach.ReadOnly = true;
+            tb_Ma_tac_gia.ReadOnly = true;
+            tb_Ten_tac_gia.ReadOnly = true;
+            tb_Ma_NXB.ReadOnly = true;
+            tb_Ten_NXB.ReadOnly = true;
+            tb_Ma_the_loai.ReadOnly = true;
+            tb_Ten_the_loai.ReadOnly = true;
+            tb_nam_XB.ReadOnly = true;
         }
 
         private void bt_them_Click(object sender, EventArgs e)
         {
-            ////hien button cap nhat
-            //bt_cap_nhat.Visible = true;
+            //hien button cap nhat
+            bt_cap_nhat.Visible = true;
 
-            ////hien button them cac thanh phan lien quan
-            //bt_them_tac_gia.Visible = true;
-            //bt_them_NXB.Visible = true;
-            //bt_them_the_loai.Visible = true;
+            //hien button them cac thanh phan lien quan
+            bt_them_tac_gia.Visible = true;
+            bt_them_NXB.Visible = true;
+            bt_them_the_loai.Visible = true;
 
-            ////cap nhat trang thai
-            //status = 1;
-
-
-            ////go bo readonly  tb_Mabs.ReadOnly = true;
-            //tb_Ma_sach.ReadOnly = true; //phuc vu danh ma tu doong
-            //tb_Ten_sach.ReadOnly = false;
-            //tb_Ma_tac_gia.ReadOnly = true;  //tu cap nhat ma
-            //tb_Ten_tac_gia.ReadOnly = false;
-            //tb_Ma_NXB.ReadOnly = true;    //tu cap nhat ma
-            //tb_Ten_NXB.ReadOnly = false;
-            //tb_Ma_the_loai.ReadOnly = true;  //tu cap nhat ma
-            //tb_Ten_the_loai.ReadOnly = false;
-            //tb_nam_XB.ReadOnly = false;
+            //cap nhat trang thai
+            status = 1;
 
 
-            ////xoa cac thong tin co trong box di
-            //tb_Ma_sach.Text = danh_ma_tu_dong(); //phuc vu danh ma tu doong
-            //tb_Ten_sach.Text = "";
-            //tb_Ma_tac_gia.Text = "";
-            //tb_Ten_tac_gia.Text = "";
-            //tb_Ma_NXB.Text = "";
-            //tb_Ten_NXB.Text = "";
-            //tb_Ma_the_loai.Text = "";
-            //tb_Ten_the_loai.Text = "";
-            //tb_nam_XB.Text = "";
+            //go bo readonly  tb_Mabs.ReadOnly = true;
+            tb_Ma_sach.ReadOnly = true; //phuc vu danh ma tu doong
+            tb_Ten_sach.ReadOnly = false;
+            tb_Ma_tac_gia.ReadOnly = true;  //tu cap nhat ma
+            tb_Ten_tac_gia.ReadOnly = false;
+            tb_Ma_NXB.ReadOnly = true;    //tu cap nhat ma
+            tb_Ten_NXB.ReadOnly = false;
+            tb_Ma_the_loai.ReadOnly = true;  //tu cap nhat ma
+            tb_Ten_the_loai.ReadOnly = false;
+            tb_nam_XB.ReadOnly = false;
+
+
+            //xoa cac thong tin co trong box di
+            tb_Ma_sach.Text = danh_ma_tu_dong(); //phuc vu danh ma tu doong
+            tb_Ten_sach.Text = "";
+            tb_Ma_tac_gia.Text = "";
+            tb_Ten_tac_gia.Text = "";
+            tb_Ma_NXB.Text = "";
+            tb_Ten_NXB.Text = "";
+            tb_Ma_the_loai.Text = "";
+            tb_Ten_the_loai.Text = "";
+            tb_nam_XB.Text = "";
 
         }
 
@@ -293,66 +293,66 @@ namespace QUAN_LY_THU_VIEN.Sách
 
         private void bt_cap_nhat_Click(object sender, EventArgs e)
         {
-            //int giatri = 0;
+            int giatri = 0;
 
-            ////hien message box 
-            //if (giatri == 0)
-            //{
-            //    System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập nhật cuốn sách này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            //    if (result == System.Windows.Forms.DialogResult.Yes)
-            //    {
-            //        MessageBox.Show("ban chon yess");
-            //        if (status == 1)
-            //        {
-            //            Insert_Sach();
-            //        }
-            //        else if (status == 2)
-            //        {
-            //            Update_Sach();
-            //        }
+            //hien message box 
+            if (giatri == 0)
+            {
+                System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập nhật cuốn sách này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == System.Windows.Forms.DialogResult.Yes)
+                {
+                    MessageBox.Show("ban chon yess");
+                    if (status == 1)
+                    {
+                        Insert_Sach();
+                    }
+                    else if (status == 2)
+                    {
+                        Update_Sach();
+                    }
 
-            //        //reload
-            //        Sach_Load(panel1, e);
+                    //reload
+                    Sach_Load(panel1, e);
 
-            //    }
-            //    else if (result == System.Windows.Forms.DialogResult.No)
-            //    {
-            //        MessageBox.Show("ban chon no");
-            //    }
-            //}
+                }
+                else if (result == System.Windows.Forms.DialogResult.No)
+                {
+                    MessageBox.Show("ban chon no");
+                }
+            }
         }
 
 
         public void Insert_Sach()
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("them_Sach", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    //them parameter 
-            //    cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@tensach", tb_Ten_sach.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_tacgia", tb_Ma_tac_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_NXB", tb_Ma_NXB.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@ma_theloai", tb_Ma_the_loai.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@namXB", tb_nam_XB.Text));
-               
+            SqlConnection con = new SqlConnection(connectionString.connectionstring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("them_Sach", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            try
+            {
+                //them parameter 
+                cmd.Parameters.Add(new SqlParameter("@masach", tb_Ma_sach.Text));
+                cmd.Parameters.Add(new SqlParameter("@tensach", tb_Ten_sach.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_tacgia", tb_Ma_tac_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_NXB", tb_Ma_NXB.Text));
+                cmd.Parameters.Add(new SqlParameter("@ma_theloai", tb_Ma_the_loai.Text));
+                cmd.Parameters.Add(new SqlParameter("@namXB", tb_nam_XB.Text));
 
-            //    //chay
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException)
-            //{
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Khong them duoc");
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //    cmd.Dispose();
-            //}
+
+                //chay
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException)
+            {
+                System.Windows.Forms.DialogResult d;
+                d = MessageBox.Show("Khong them duoc");
+            }
+            finally
+            {
+                con.Close();
+                cmd.Dispose();
+            }
 
 
         }
