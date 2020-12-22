@@ -21,21 +21,21 @@ namespace BanHangSieuTHi
         string temp;
         public void LoadListView1()
         {
-            // listView1.Items.Clear();
-            // sqlQuery sql = new sqlQuery();
-            // DataTable dt = sql.LayDuLieu("Select * from NHANVIEN");
-            // for (int i = 0; i < dt.Rows.Count; i++)
-            // {
-            //     ListViewItem item = new ListViewItem((i + 1).ToString());
-            //     item.SubItems.Add(dt.Rows[i][0].ToString());
-            //     item.SubItems.Add(dt.Rows[i][1].ToString());
-            //     item.SubItems.Add(dt.Rows[i][2].ToString());
-            //     item.SubItems.Add(dt.Rows[i][5].ToString());
-            //     item.SubItems.Add(dt.Rows[i][3].ToString());
-            //     item.SubItems.Add(dt.Rows[i][6].ToString());
-            //     item.SubItems.Add(dt.Rows[i][4].ToString());
-            //     listView1.Items.Add(item);
-            // }
+            listView1.Items.Clear();
+            sqlQuery sql = new sqlQuery();
+            DataTable dt = sql.LayDuLieu("Select * from NHANVIEN");
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListViewItem item = new ListViewItem((i + 1).ToString());
+                item.SubItems.Add(dt.Rows[i][0].ToString());
+                item.SubItems.Add(dt.Rows[i][1].ToString());
+                item.SubItems.Add(dt.Rows[i][2].ToString());
+                item.SubItems.Add(dt.Rows[i][5].ToString());
+                item.SubItems.Add(dt.Rows[i][3].ToString());
+                item.SubItems.Add(dt.Rows[i][6].ToString());
+                item.SubItems.Add(dt.Rows[i][4].ToString());
+                listView1.Items.Add(item);
+            }
         }
         private void frmQLNV_Load(object sender, EventArgs e)
         {
@@ -50,30 +50,30 @@ namespace BanHangSieuTHi
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            // try
-            // {
-            //     if (txtMa.Text != "")
-            //     {
-            //         DialogResult result;
-            //         result = MessageBox.Show("BẠN CÓ MUỐN XÓA NHÂN VIÊN NÀY KHÔNG?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            //         if (result == DialogResult.Yes)
-            //         {
-            //             string[] name = { "@MaNV" };
-            //             string[] value = { txtMa.Text };
-            //             sqlQuery sql = new sqlQuery();
-            //             sql.update("DELETE_NV", name, value, 1);
-            //             MessageBox.Show("Xóa thành công .");
-            //             listView1.Items.Clear();
-            //             LoadListView1();
-            //         }
-            //     }
-            //     else { MessageBox.Show("Hãy chọn một nhân viên bạn muốn thao tác !!", "Warning"); }
+            try
+            {
+                if (txtMa.Text != "")
+                {
+                    DialogResult result;
+                    result = MessageBox.Show("BẠN CÓ MUỐN XÓA NHÂN VIÊN NÀY KHÔNG?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (result == DialogResult.Yes)
+                    {
+                        string[] name = { "@MaNV" };
+                        string[] value = { txtMa.Text };
+                        sqlQuery sql = new sqlQuery();
+                        sql.update("DELETE_NV", name, value, 1);
+                        MessageBox.Show("Xóa thành công .");
+                        listView1.Items.Clear();
+                        LoadListView1();
+                    }
+                }
+                else { MessageBox.Show("Hãy chọn một nhân viên bạn muốn thao tác !!", "Warning"); }
 
-            // }
-            // catch (Exception)
-            // {
-            //         MessageBox.Show("Thông tin nhân viên đã lưu!Không thế xóa!!", "Warning");
-            // }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Thông tin nhân viên đã lưu!Không thế xóa!!", "Warning");
+            }
         }
 
        
