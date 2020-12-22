@@ -1,0 +1,819 @@
+D:\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+D:\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+D:\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+D:\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CoreCompileInputs.cache
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+D:\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojResolveAssemblyReference.cache
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CoreCompileInputs.cache
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoa.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CopyComplete
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+\\Mac\Home\Documents\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\stdole.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\EnvDTE80.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\VSLangProj.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\VSLangProj80.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.Build.Framework.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\VSLangProj2.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.BanHangSieuTHi.exe.config
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\GITDESK\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\stdole.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+D:\GitHub\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\stdole.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojResolveAssemblyReference.cache
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CoreCompileInputs.cache
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+D:\GitTest1\BanHangSieuTHi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\stdole.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\EnvDTE80.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\VSLangProj.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\VSLangProj80.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.Build.Framework.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\VSLangProj2.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojResolveAssemblyReference.cache
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.BanHangSieuTHi.exe.config
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\bin\Debug\Newtonsoft.Json.dll
+E:\HVKTQS\KY VI\THUC TAP NHOM\CAC LAB\SieuThi\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\stdole.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\EnvDTE80.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\VSLangProj.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\VSLangProj80.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\VSLangProj2.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.BanHangSieuTHi.exe.config
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+C:\Users\MSII\Desktop\SieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\stdole.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\EnvDTE80.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\VSLangProj.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\VSLangProj80.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\VSLangProj2.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.BanHangSieuTHi.exe.config
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+C:\Users\MSII\Desktop\BaiTapTrenLop\Thuc Tap Nhom\SieuThi-master(bainop)\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.compiled
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CopyComplete
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+C:\Users\PC\Desktop\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\stdole.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojAssemblyReference.cache
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.cache
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.cache
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.compiled
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CopyComplete
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+D:\ThucTapNhom\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe.config
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.exe
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\BanHangSieuTHi.pdb
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\EnvDTE.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\stdole.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojAssemblyReference.cache
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.cache
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.cache
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.compiled
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CopyComplete
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
