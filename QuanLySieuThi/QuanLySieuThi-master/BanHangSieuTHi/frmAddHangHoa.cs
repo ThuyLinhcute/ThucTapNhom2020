@@ -19,26 +19,26 @@ namespace BanHangSieuTHi.Add
             InitializeComponent();
             if (arHH.Count == 0)
             {
-                // sqlQuery truyVanDL = new sqlQuery();
-                // DataTable dt = truyVanDL.LayDuLieu("select * from LOAIHANG");
-                // ArrayList arLH = new ArrayList();
-                // foreach (DataRow row in dt.Rows)
-                // {
-                //     arLH.Add(row["DienGiai"]);
-                // }
-                // Loai.DataSource = arLH;
+                sqlQuery truyVanDL = new sqlQuery();
+                DataTable dt = truyVanDL.LayDuLieu("select * from LOAIHANG");
+                ArrayList arLH = new ArrayList();
+                foreach (DataRow row in dt.Rows)
+                {
+                    arLH.Add(row["DienGiai"]);
+                }
+                Loai.DataSource = arLH;
 
-                // DataTable dtHH = truyVanDL.LayDuLieu("select * from HANGHOA order by MaHang desc");
-                // string MaHang = "";
-                // foreach (DataRow row in dtHH.Rows)
-                // {
-                //     MaHang = row["MaHang"].ToString();
-                //     int k = MaHang.IndexOf("h");
-                //     int t = int.Parse(MaHang.Substring(k+1))+1;
-                //     Ma.Text = "h" + t;
-                //     break;
-                // }
-                
+                DataTable dtHH = truyVanDL.LayDuLieu("select * from HANGHOA order by MaHang desc");
+                string MaHang = "";
+                foreach (DataRow row in dtHH.Rows)
+                {
+                    MaHang = row["MaHang"].ToString();
+                    int k = MaHang.IndexOf("h");
+                    int t = int.Parse(MaHang.Substring(k + 1)) + 1;
+                    Ma.Text = "h" + t;
+                    break;
+                }
+
             }
         }
 
@@ -54,20 +54,20 @@ namespace BanHangSieuTHi.Add
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // sqlQuery truyVan = new sqlQuery();
-            // DataTable dt = truyVan.LayDuLieu("select * from LOAIHANG where DienGiai = N'" + Loai.Text + "'");
-            // Object MaLoai = "";
-            // foreach (DataRow row in dt.Rows)
-            // {
-            //     MaLoai = row["MaLoai"];
-            // }
+            sqlQuery truyVan = new sqlQuery();
+            DataTable dt = truyVan.LayDuLieu("select * from LOAIHANG where DienGiai = N'" + Loai.Text + "'");
+            Object MaLoai = "";
+            foreach (DataRow row in dt.Rows)
+            {
+                MaLoai = row["MaLoai"];
+            }
 
-            // string query = "insert into HANGHOA values('" + Ma.Text + "','" + Ten.Text + "','" + DonVi.Text + "','" + TenNhaSX.Text + "'," + GiaDeNghi.Text + ",'" + MaLoai + "'," + SoLuong.Text + ")";
+            string query = "insert into HANGHOA values('" + Ma.Text + "','" + Ten.Text + "','" + DonVi.Text + "','" + TenNhaSX.Text + "'," + GiaDeNghi.Text + ",'" + MaLoai + "'," + SoLuong.Text + ")";
 
-            // truyVan.ExecuteNoneQuery(query);
+            truyVan.ExecuteNoneQuery(query);
 
 
-            // Close();
+            Close();
         }
     }
 }

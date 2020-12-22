@@ -56,19 +56,19 @@ namespace BanHangSieuTHi.Edit
         private void button1_Click(object sender, EventArgs e)
         {
             sqlQuery truyVan = new sqlQuery();
-            DataTable dt = truyVan.LayDuLieu("select * from LOAIHANG where DienGiai = N'"+Loai.Text+"'");
+            DataTable dt = truyVan.LayDuLieu("select * from LOAIHANG where DienGiai = N'" + Loai.Text + "'");
             Object MaLoai = "";
             foreach (DataRow row in dt.Rows)
             {
                 MaLoai = row["MaLoai"];
             }
 
-            string query = "UPDATE HANGHOA SET TenHang=N'" + Ten.Text + "', DonVi=N'" + DonVi.Text + "', TenNhaSX=N'" + TenNhaSX.Text + "', GiaDeNghi=" +  GiaDeNghi.Text +", MaLoai='" + MaLoai + "', SoLuongSP=" + SoLuong.Text +
+            string query = "UPDATE HANGHOA SET TenHang=N'" + Ten.Text + "', DonVi=N'" + DonVi.Text + "', TenNhaSX=N'" + TenNhaSX.Text + "', GiaDeNghi=" + GiaDeNghi.Text + ", MaLoai='" + MaLoai + "', SoLuongSP=" + SoLuong.Text +
                             " WHERE MaHang='" + Ma.Text + "'";
-            
+
             truyVan.ExecuteNoneQuery(query);
 
-            
+
             Close();
         }
 
