@@ -76,7 +76,7 @@
             // 
             this.txtNCCID.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNCCID.ForeColor = System.Drawing.Color.Black;
-            this.txtNCCID.Location = new System.Drawing.Point(798, 44);
+            this.txtNCCID.Location = new System.Drawing.Point(648, 46);
             this.txtNCCID.Name = "txtNCCID";
             this.txtNCCID.ReadOnly = true;
             this.txtNCCID.Size = new System.Drawing.Size(163, 28);
@@ -85,7 +85,7 @@
             // 
             // btnOk
             // 
-            this.btnOk.Location = new System.Drawing.Point(969, 43);
+            this.btnOk.Location = new System.Drawing.Point(819, 45);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(33, 22);
             this.btnOk.TabIndex = 7;
@@ -97,7 +97,7 @@
             // 
             this.txtSoluong.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSoluong.ForeColor = System.Drawing.Color.Black;
-            this.txtSoluong.Location = new System.Drawing.Point(1379, 45);
+            this.txtSoluong.Location = new System.Drawing.Point(1107, 50);
             this.txtSoluong.Name = "txtSoluong";
             this.txtSoluong.ReadOnly = true;
             this.txtSoluong.Size = new System.Drawing.Size(77, 28);
@@ -108,7 +108,7 @@
             this.lblSoluong.AutoSize = true;
             this.lblSoluong.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSoluong.ForeColor = System.Drawing.Color.Black;
-            this.lblSoluong.Location = new System.Drawing.Point(1373, 45);
+            this.lblSoluong.Location = new System.Drawing.Point(1101, 50);
             this.lblSoluong.Name = "lblSoluong";
             this.lblSoluong.Size = new System.Drawing.Size(0, 21);
             this.lblSoluong.TabIndex = 12;
@@ -118,7 +118,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(1285, 48);
+            this.label7.Location = new System.Drawing.Point(1013, 53);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(82, 21);
             this.label7.TabIndex = 11;
@@ -129,7 +129,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(674, 95);
+            this.label4.Location = new System.Drawing.Point(524, 97);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(40, 21);
             this.label4.TabIndex = 9;
@@ -139,7 +139,7 @@
             // 
             this.txtGia.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtGia.ForeColor = System.Drawing.Color.Black;
-            this.txtGia.Location = new System.Drawing.Point(798, 89);
+            this.txtGia.Location = new System.Drawing.Point(648, 91);
             this.txtGia.Name = "txtGia";
             this.txtGia.Size = new System.Drawing.Size(163, 28);
             this.txtGia.TabIndex = 8;
@@ -149,7 +149,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(759, 95);
+            this.label5.Location = new System.Drawing.Point(609, 97);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(0, 21);
             this.label5.TabIndex = 7;
@@ -166,7 +166,7 @@
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dataGridView1.RowTemplate.DefaultCellStyle.ForeColor = System.Drawing.Color.Black;
-            this.dataGridView1.Size = new System.Drawing.Size(1295, 426);
+            this.dataGridView1.Size = new System.Drawing.Size(1103, 314);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellEnter);
             this.dataGridView1.Enter += new System.EventHandler(this.dataGridView1_Enter);
@@ -174,7 +174,7 @@
             // btnXoa
             // 
             this.btnXoa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnXoa.Location = new System.Drawing.Point(1321, 460);
+            this.btnXoa.Location = new System.Drawing.Point(1120, 406);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(178, 44);
             this.btnXoa.TabIndex = 12;
@@ -185,7 +185,7 @@
             // btnSua
             // 
             this.btnSua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnSua.Location = new System.Drawing.Point(1324, 375);
+            this.btnSua.Location = new System.Drawing.Point(1120, 336);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(178, 44);
             this.btnSua.TabIndex = 11;
@@ -196,7 +196,7 @@
             // btnThem
             // 
             this.btnThem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnThem.Location = new System.Drawing.Point(1321, 302);
+            this.btnThem.Location = new System.Drawing.Point(1120, 266);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(178, 44);
             this.btnThem.TabIndex = 8;
@@ -208,7 +208,7 @@
             // 
             this.txtNCC.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNCC.ForeColor = System.Drawing.Color.Black;
-            this.txtNCC.Location = new System.Drawing.Point(798, 44);
+            this.txtNCC.Location = new System.Drawing.Point(648, 46);
             this.txtNCC.Name = "txtNCC";
             this.txtNCC.ReadOnly = true;
             this.txtNCC.Size = new System.Drawing.Size(163, 28);
@@ -219,7 +219,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(674, 46);
+            this.label6.Location = new System.Drawing.Point(524, 48);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(117, 21);
             this.label6.TabIndex = 5;
@@ -243,7 +243,7 @@
             this.groupBox3.ForeColor = System.Drawing.Color.Red;
             this.groupBox3.Location = new System.Drawing.Point(0, 242);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(1301, 453);
+            this.groupBox3.Size = new System.Drawing.Size(1109, 341);
             this.groupBox3.TabIndex = 10;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Danh sách sản phẩm";
@@ -260,7 +260,7 @@
             // btnLuu
             // 
             this.btnLuu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnLuu.Location = new System.Drawing.Point(1324, 539);
+            this.btnLuu.Location = new System.Drawing.Point(1120, 476);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(178, 44);
             this.btnLuu.TabIndex = 14;
@@ -309,7 +309,7 @@
             this.groupBox2.ForeColor = System.Drawing.Color.Red;
             this.groupBox2.Location = new System.Drawing.Point(6, 147);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(1478, 89);
+            this.groupBox2.Size = new System.Drawing.Size(1292, 89);
             this.groupBox2.TabIndex = 9;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Tìm kiếm";
@@ -349,7 +349,7 @@
             // btnHuy
             // 
             this.btnHuy.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.btnHuy.Location = new System.Drawing.Point(1321, 618);
+            this.btnHuy.Location = new System.Drawing.Point(1120, 546);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(178, 44);
             this.btnHuy.TabIndex = 13;
@@ -378,7 +378,7 @@
             this.groupBox1.ForeColor = System.Drawing.Color.Red;
             this.groupBox1.Location = new System.Drawing.Point(2, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1482, 137);
+            this.groupBox1.Size = new System.Drawing.Size(1296, 137);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Chi tiết sản phẩm";
@@ -396,7 +396,7 @@
             this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.groupBox1);
             this.Name = "Sanpham";
-            this.Size = new System.Drawing.Size(1487, 698);
+            this.Size = new System.Drawing.Size(1309, 611);
             this.Load += new System.EventHandler(this.Sanpham_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox3.ResumeLayout(false);
