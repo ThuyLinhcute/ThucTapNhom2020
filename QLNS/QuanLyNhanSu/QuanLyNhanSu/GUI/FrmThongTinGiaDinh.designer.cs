@@ -57,13 +57,14 @@
                // 
                // dgrGiaDinh
                // 
-               this.dgrGiaDinh.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.dgrGiaDinh.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
+               this.dgrGiaDinh.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                gridLevelNode1.RelationName = "Level1";
                this.dgrGiaDinh.LevelTree.Nodes.AddRange(new DevExpress.XtraGrid.GridLevelNode[] {
             gridLevelNode1});
                this.dgrGiaDinh.Location = new System.Drawing.Point(20, 64);
                this.dgrGiaDinh.MainView = this.grvGiaDinh;
-               this.dgrGiaDinh.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.dgrGiaDinh.Margin = new System.Windows.Forms.Padding(4);
                this.dgrGiaDinh.Name = "dgrGiaDinh";
                this.dgrGiaDinh.Size = new System.Drawing.Size(904, 569);
                this.dgrGiaDinh.TabIndex = 60;
@@ -80,6 +81,7 @@
                this.grvGiaDinh.DetailHeight = 431;
                this.grvGiaDinh.GridControl = this.dgrGiaDinh;
                this.grvGiaDinh.Name = "grvGiaDinh";
+               this.grvGiaDinh.OptionsView.ShowGroupPanel = false;
                this.grvGiaDinh.PaintStyleName = "Flat";
                this.grvGiaDinh.RowHeight = 37;
                // 
@@ -125,10 +127,12 @@
                // 
                // btnXoa
                // 
+               this.btnXoa.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+               this.btnXoa.Appearance.Options.UseFont = true;
                this.btnXoa.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnXoa.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.ImageOptions.Image")));
                this.btnXoa.Location = new System.Drawing.Point(963, 462);
-               this.btnXoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
                this.btnXoa.Name = "btnXoa";
                this.btnXoa.Size = new System.Drawing.Size(680, 53);
                this.btnXoa.TabIndex = 63;
@@ -137,10 +141,12 @@
                // 
                // btnDong
                // 
+               this.btnDong.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+               this.btnDong.Appearance.Options.UseFont = true;
                this.btnDong.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnDong.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDong.ImageOptions.Image")));
                this.btnDong.Location = new System.Drawing.Point(963, 580);
-               this.btnDong.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnDong.Margin = new System.Windows.Forms.Padding(4);
                this.btnDong.Name = "btnDong";
                this.btnDong.Size = new System.Drawing.Size(680, 53);
                this.btnDong.TabIndex = 62;
@@ -149,10 +155,12 @@
                // 
                // btnSua
                // 
+               this.btnSua.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+               this.btnSua.Appearance.Options.UseFont = true;
                this.btnSua.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnSua.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.ImageOptions.Image")));
                this.btnSua.Location = new System.Drawing.Point(1307, 401);
-               this.btnSua.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnSua.Margin = new System.Windows.Forms.Padding(4);
                this.btnSua.Name = "btnSua";
                this.btnSua.Size = new System.Drawing.Size(336, 53);
                this.btnSua.TabIndex = 65;
@@ -162,10 +170,11 @@
                // label3
                // 
                this.label3.AutoSize = true;
+               this.label3.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label3.Location = new System.Drawing.Point(47, 23);
                this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
                this.label3.Name = "label3";
-               this.label3.Size = new System.Drawing.Size(215, 17);
+               this.label3.Size = new System.Drawing.Size(208, 17);
                this.label3.TabIndex = 66;
                this.label3.Text = "Thông tin gia đình của nhân viên";
                // 
@@ -175,7 +184,7 @@
                this.label5.Location = new System.Drawing.Point(72, 182);
                this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
                this.label5.Name = "label5";
-               this.label5.Size = new System.Drawing.Size(59, 17);
+               this.label5.Size = new System.Drawing.Size(61, 17);
                this.label5.TabIndex = 20;
                this.label5.Text = "Chức vụ";
                // 
@@ -185,7 +194,7 @@
                this.label4.Location = new System.Drawing.Point(72, 55);
                this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
                this.label4.Name = "label4";
-               this.label4.Size = new System.Drawing.Size(50, 17);
+               this.label4.Size = new System.Drawing.Size(49, 17);
                this.label4.TabIndex = 15;
                this.label4.Text = "Họ tên";
                // 
@@ -195,16 +204,18 @@
                this.label2.Location = new System.Drawing.Point(72, 119);
                this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
                this.label2.Name = "label2";
-               this.label2.Size = new System.Drawing.Size(60, 17);
+               this.label2.Size = new System.Drawing.Size(56, 17);
                this.label2.TabIndex = 0;
                this.label2.Text = "Giới tính";
                // 
                // btnThem
                // 
+               this.btnThem.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+               this.btnThem.Appearance.Options.UseFont = true;
                this.btnThem.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnThem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.ImageOptions.Image")));
                this.btnThem.Location = new System.Drawing.Point(963, 401);
-               this.btnThem.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnThem.Margin = new System.Windows.Forms.Padding(4);
                this.btnThem.Name = "btnThem";
                this.btnThem.Size = new System.Drawing.Size(336, 53);
                this.btnThem.TabIndex = 64;
@@ -220,10 +231,11 @@
                this.groupBox1.Controls.Add(this.label5);
                this.groupBox1.Controls.Add(this.label4);
                this.groupBox1.Controls.Add(this.label2);
+               this.groupBox1.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.groupBox1.Location = new System.Drawing.Point(963, 108);
-               this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox1.Name = "groupBox1";
-               this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox1.Size = new System.Drawing.Size(680, 261);
                this.groupBox1.TabIndex = 61;
                this.groupBox1.TabStop = false;
@@ -237,7 +249,7 @@
             "Nữ",
             "Nam"});
                this.cboGioiTinh.Location = new System.Drawing.Point(199, 116);
-               this.cboGioiTinh.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cboGioiTinh.Margin = new System.Windows.Forms.Padding(4);
                this.cboGioiTinh.Name = "cboGioiTinh";
                this.cboGioiTinh.Size = new System.Drawing.Size(177, 24);
                this.cboGioiTinh.TabIndex = 23;
@@ -247,7 +259,7 @@
                this.cboChucVu.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
                this.cboChucVu.FormattingEnabled = true;
                this.cboChucVu.Location = new System.Drawing.Point(199, 182);
-               this.cboChucVu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cboChucVu.Margin = new System.Windows.Forms.Padding(4);
                this.cboChucVu.Name = "cboChucVu";
                this.cboChucVu.Size = new System.Drawing.Size(327, 24);
                this.cboChucVu.TabIndex = 22;
@@ -255,17 +267,18 @@
                // txbHoTen
                // 
                this.txbHoTen.Location = new System.Drawing.Point(199, 52);
-               this.txbHoTen.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.txbHoTen.Margin = new System.Windows.Forms.Padding(4);
                this.txbHoTen.Name = "txbHoTen";
-               this.txbHoTen.Size = new System.Drawing.Size(309, 22);
+               this.txbHoTen.Size = new System.Drawing.Size(309, 23);
                this.txbHoTen.TabIndex = 21;
                // 
                // cboNhanVien
                // 
                this.cboNhanVien.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+               this.cboNhanVien.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.cboNhanVien.FormattingEnabled = true;
                this.cboNhanVien.Location = new System.Drawing.Point(292, 20);
-               this.cboNhanVien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cboNhanVien.Margin = new System.Windows.Forms.Padding(4);
                this.cboNhanVien.Name = "cboNhanVien";
                this.cboNhanVien.Size = new System.Drawing.Size(261, 24);
                this.cboNhanVien.TabIndex = 59;
@@ -273,10 +286,12 @@
                // 
                // btnXuat
                // 
+               this.btnXuat.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+               this.btnXuat.Appearance.Options.UseFont = true;
                this.btnXuat.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Flat;
                this.btnXuat.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXuat.ImageOptions.Image")));
                this.btnXuat.Location = new System.Drawing.Point(963, 519);
-               this.btnXuat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnXuat.Margin = new System.Windows.Forms.Padding(4);
                this.btnXuat.Name = "btnXuat";
                this.btnXuat.Size = new System.Drawing.Size(680, 53);
                this.btnXuat.TabIndex = 83;
@@ -298,7 +313,7 @@
                this.Controls.Add(this.groupBox1);
                this.Controls.Add(this.cboNhanVien);
                this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-               this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Margin = new System.Windows.Forms.Padding(4);
                this.Name = "FrmThongTinGiaDinh";
                this.Text = "FrmThongTinGiaDinh";
                ((System.ComponentModel.ISupportInitialize)(this.dgrGiaDinh)).EndInit();
