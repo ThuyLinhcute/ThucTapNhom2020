@@ -132,15 +132,15 @@ namespace HotelManager
 
         private void metroTile17_Click(object sender, EventArgs e)
         {
-               //if (CheckAccess("fcustomer"))
-               //{
-               //     this.Hide();
-               //     fCustomer customer = new fCustomer();
-               //     customer.ShowDialog();
-               //     this.Show();
-               //}
-               //else
-               //     MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+               if (CheckAccess("fcustomer"))
+               {
+                   this.Hide();
+                   fCustomer customer = new fCustomer();
+                   customer.ShowDialog();
+                   this.Show();
+               }
+               else
+                   MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
         }
 
@@ -207,15 +207,15 @@ namespace HotelManager
 
         private void metroTile16_Click(object sender, EventArgs e)
         {
-            //if (CheckAccess("fBill"))
-            //{
-            //    this.Hide();
-            //    fBill fAbout = new fBill();
-            //    fAbout.ShowDialog();
-            //    this.Show();
-            //}
-            //else
-            //    MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            if (CheckAccess("fBill"))
+            {
+               this.Hide();
+               fBill fAbout = new fBill();
+               fAbout.ShowDialog();
+               this.Show();
+            }
+            else
+               MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
         private void panelRight_Paint(object sender, PaintEventArgs e)
