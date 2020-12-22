@@ -44,7 +44,10 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
                     DialogResult result2 = MessageBox.Show("Xoá thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     if (result2 == DialogResult.OK)
                     {
-                        //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                        this.Close();
+                        Program.qLyGiangDay = new QLyGiangDay();
+                        Program.qLyGiangDay.Refresh();
+                        Program.quanLyChung.barButtonItemGiangDay_ItemClick(sender as QLyGiangDay, null);
                     }
                 }
             }

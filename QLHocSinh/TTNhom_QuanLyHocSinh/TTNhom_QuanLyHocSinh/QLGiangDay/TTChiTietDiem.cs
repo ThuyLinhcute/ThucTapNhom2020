@@ -22,7 +22,7 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
         private void buttonLưu_Click(object sender, EventArgs e)
         {
             Diem d = new Object.Diem(Convert.ToInt32(textBoxmahs.Text), textBoxhotenhs.Text, textBoxngaysinh.Text, textBoxgioitinh.Text,
-                Program.mamonhoc, Convert.ToDouble(textBoxdiemmieng.Text), Convert.ToDouble(textBoxdiem15phut.Text), 
+                Program.mamonhoc, Convert.ToDouble(textBoxdiemmieng.Text), Convert.ToDouble(textBoxdiem15phut.Text),
                 Convert.ToDouble(textBoxdiem1tiet.Text), Convert.ToDouble(textBoxdiemhk.Text), Convert.ToDouble(textBoxdtbmon.Text));
             if (Program.opt == 1) // them
             {
@@ -32,7 +32,10 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
                     DialogResult result = MessageBox.Show("Thêm thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     if (result == DialogResult.OK)
                     {
-                        //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                        this.Close();
+                        Program.qLDiem = new QLDiem();
+                        Program.qLDiem.Refresh();
+                        Program.quanLyChung.barButtonItemQLLop_Diem_ItemClick(sender as QLDiem, null);
                     }
                 }
                 else
@@ -48,7 +51,10 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
                     DialogResult result = MessageBox.Show("Sửa thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     if (result == DialogResult.OK)
                     {
-                        //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                        this.Close();
+                        Program.qLDiem = new QLDiem();
+                        Program.qLDiem.Refresh();
+                        Program.quanLyChung.barButtonItemQLLop_Diem_ItemClick(sender as QLDiem, null);
                     }
                 }
                 else

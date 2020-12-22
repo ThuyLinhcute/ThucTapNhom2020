@@ -28,19 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
             this.buttonSuaDiem = new System.Windows.Forms.Button();
             this.buttonThoat = new System.Windows.Forms.Button();
-            this.buttonNhapDiem = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.textBoxdiemmieng = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -102,7 +101,7 @@
             // 
             this.buttonSuaDiem.BackColor = System.Drawing.SystemColors.Info;
             this.buttonSuaDiem.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonSuaDiem.Location = new System.Drawing.Point(1115, 149);
+            this.buttonSuaDiem.Location = new System.Drawing.Point(1115, 104);
             this.buttonSuaDiem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.buttonSuaDiem.Name = "buttonSuaDiem";
             this.buttonSuaDiem.Size = new System.Drawing.Size(143, 36);
@@ -123,19 +122,6 @@
             this.buttonThoat.Text = "Thoát";
             this.buttonThoat.UseVisualStyleBackColor = false;
             this.buttonThoat.Click += new System.EventHandler(this.buttonThoat_Click);
-            // 
-            // buttonNhapDiem
-            // 
-            this.buttonNhapDiem.BackColor = System.Drawing.SystemColors.Info;
-            this.buttonNhapDiem.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonNhapDiem.Location = new System.Drawing.Point(1115, 101);
-            this.buttonNhapDiem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.buttonNhapDiem.Name = "buttonNhapDiem";
-            this.buttonNhapDiem.Size = new System.Drawing.Size(143, 36);
-            this.buttonNhapDiem.TabIndex = 20;
-            this.buttonNhapDiem.Text = "Nhập điểm";
-            this.buttonNhapDiem.UseVisualStyleBackColor = false;
-            this.buttonNhapDiem.Click += new System.EventHandler(this.buttonNhapDiem_Click);
             // 
             // label6
             // 
@@ -314,7 +300,6 @@
             this.groupControlThongtinchitiet.Controls.Add(this.buttonSuaDiem);
             this.groupControlThongtinchitiet.Controls.Add(this.label4);
             this.groupControlThongtinchitiet.Controls.Add(this.buttonThoat);
-            this.groupControlThongtinchitiet.Controls.Add(this.buttonNhapDiem);
             this.groupControlThongtinchitiet.Controls.Add(this.label6);
             this.groupControlThongtinchitiet.Controls.Add(this.textBoxdiemmieng);
             this.groupControlThongtinchitiet.Controls.Add(this.label7);
@@ -499,8 +484,8 @@
             // STT
             // 
             this.STT.DataPropertyName = "STT";
-            dataGridViewCellStyle11.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.STT.DefaultCellStyle = dataGridViewCellStyle11;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.STT.DefaultCellStyle = dataGridViewCellStyle1;
             this.STT.Frozen = true;
             this.STT.HeaderText = "STT";
             this.STT.MinimumWidth = 6;
@@ -510,8 +495,8 @@
             // MaHocSinh
             // 
             this.MaHocSinh.DataPropertyName = "MaHocSinh";
-            dataGridViewCellStyle12.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MaHocSinh.DefaultCellStyle = dataGridViewCellStyle12;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MaHocSinh.DefaultCellStyle = dataGridViewCellStyle2;
             this.MaHocSinh.Frozen = true;
             this.MaHocSinh.HeaderText = "Mã học sinh";
             this.MaHocSinh.MinimumWidth = 6;
@@ -521,8 +506,8 @@
             // HoTenHS
             // 
             this.HoTenHS.DataPropertyName = "HoTenHS";
-            dataGridViewCellStyle13.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.HoTenHS.DefaultCellStyle = dataGridViewCellStyle13;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HoTenHS.DefaultCellStyle = dataGridViewCellStyle3;
             this.HoTenHS.Frozen = true;
             this.HoTenHS.HeaderText = "Họ tên";
             this.HoTenHS.MinimumWidth = 6;
@@ -532,8 +517,8 @@
             // NgaySinh
             // 
             this.NgaySinh.DataPropertyName = "NgaySinh";
-            dataGridViewCellStyle14.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NgaySinh.DefaultCellStyle = dataGridViewCellStyle14;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NgaySinh.DefaultCellStyle = dataGridViewCellStyle4;
             this.NgaySinh.Frozen = true;
             this.NgaySinh.HeaderText = "Ngày sinh";
             this.NgaySinh.MinimumWidth = 6;
@@ -543,8 +528,8 @@
             // GioiTinh
             // 
             this.GioiTinh.DataPropertyName = "GioiTinh";
-            dataGridViewCellStyle15.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.GioiTinh.DefaultCellStyle = dataGridViewCellStyle15;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.GioiTinh.DefaultCellStyle = dataGridViewCellStyle5;
             this.GioiTinh.Frozen = true;
             this.GioiTinh.HeaderText = "Giới tính";
             this.GioiTinh.MinimumWidth = 6;
@@ -554,8 +539,8 @@
             // DiemMieng
             // 
             this.DiemMieng.DataPropertyName = "DiemMieng";
-            dataGridViewCellStyle16.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DiemMieng.DefaultCellStyle = dataGridViewCellStyle16;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DiemMieng.DefaultCellStyle = dataGridViewCellStyle6;
             this.DiemMieng.Frozen = true;
             this.DiemMieng.HeaderText = "Điểm miệng";
             this.DiemMieng.MinimumWidth = 6;
@@ -565,8 +550,8 @@
             // Diem15Phut
             // 
             this.Diem15Phut.DataPropertyName = "Diem15Phut";
-            dataGridViewCellStyle17.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Diem15Phut.DefaultCellStyle = dataGridViewCellStyle17;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Diem15Phut.DefaultCellStyle = dataGridViewCellStyle7;
             this.Diem15Phut.HeaderText = "Điểm 15 phút";
             this.Diem15Phut.MinimumWidth = 6;
             this.Diem15Phut.Name = "Diem15Phut";
@@ -575,8 +560,8 @@
             // Diem1Tiet
             // 
             this.Diem1Tiet.DataPropertyName = "Diem1Tiet";
-            dataGridViewCellStyle18.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Diem1Tiet.DefaultCellStyle = dataGridViewCellStyle18;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Diem1Tiet.DefaultCellStyle = dataGridViewCellStyle8;
             this.Diem1Tiet.HeaderText = "Điểm 1 tiết";
             this.Diem1Tiet.MinimumWidth = 6;
             this.Diem1Tiet.Name = "Diem1Tiet";
@@ -585,8 +570,8 @@
             // DiemHocKi
             // 
             this.DiemHocKi.DataPropertyName = "DiemHocKi";
-            dataGridViewCellStyle19.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DiemHocKi.DefaultCellStyle = dataGridViewCellStyle19;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DiemHocKi.DefaultCellStyle = dataGridViewCellStyle9;
             this.DiemHocKi.HeaderText = "Điểm học kì";
             this.DiemHocKi.MinimumWidth = 6;
             this.DiemHocKi.Name = "DiemHocKi";
@@ -595,8 +580,8 @@
             // DiemTrungBinhMon
             // 
             this.DiemTrungBinhMon.DataPropertyName = "DiemTrungBinhMon";
-            dataGridViewCellStyle20.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DiemTrungBinhMon.DefaultCellStyle = dataGridViewCellStyle20;
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DiemTrungBinhMon.DefaultCellStyle = dataGridViewCellStyle10;
             this.DiemTrungBinhMon.HeaderText = "Điểm trung bình môn";
             this.DiemTrungBinhMon.MinimumWidth = 6;
             this.DiemTrungBinhMon.Name = "DiemTrungBinhMon";
@@ -661,7 +646,6 @@
 
         private System.Windows.Forms.Button buttonSuaDiem;
         private System.Windows.Forms.Button buttonThoat;
-        private System.Windows.Forms.Button buttonNhapDiem;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox textBoxdiemmieng;
         private System.Windows.Forms.Label label7;

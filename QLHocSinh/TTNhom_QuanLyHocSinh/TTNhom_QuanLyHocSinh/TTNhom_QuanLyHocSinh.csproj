@@ -198,6 +198,7 @@
     <EmbeddedResource Include="QLHocSinh\ThongTinChiTietHS.resx">
       <DependentUpon>ThongTinChiTietHS.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="HDSDPhanMem\Hướng dẫn sử dụng phần mềm.docx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

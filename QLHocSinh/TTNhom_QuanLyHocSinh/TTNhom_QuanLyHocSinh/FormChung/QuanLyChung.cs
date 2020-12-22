@@ -13,6 +13,8 @@ using TTNhom_QuanLyHocSinh.QLHocSinh;
 using TTNhom_QuanLyHocSinh.QLGiaoVien;
 using TTNhom_QuanLyHocSinh.Object;
 using TTNhom_QuanLyHocSinh.QLGiangDay;
+using System.Diagnostics;
+using System.IO;
 
 namespace TTNhom_QuanLyHocSinh.Views
 {
@@ -37,7 +39,7 @@ namespace TTNhom_QuanLyHocSinh.Views
                qLHS.Show();
           }
 
-        private void barButtonItemGiaoVien_ItemClick(object sender, ItemClickEventArgs e)
+        public void barButtonItemGiaoVien_ItemClick(object sender, ItemClickEventArgs e)
         {
             QLGV qLGV = new QLGV();
             qLGV.TopLevel = false;
@@ -49,7 +51,7 @@ namespace TTNhom_QuanLyHocSinh.Views
             qLGV.Show();
         }
 
-        private void barButtonItemQLLop_Diem_ItemClick(object sender, ItemClickEventArgs e)
+        public void barButtonItemQLLop_Diem_ItemClick(object sender, ItemClickEventArgs e)
         {
 
             QLDiem qLLop_Diem = new QLDiem();
@@ -63,7 +65,7 @@ namespace TTNhom_QuanLyHocSinh.Views
             qLLop_Diem.Show();
         }
 
-        private void barButtonItemGiangDay_ItemClick(object sender, ItemClickEventArgs e)
+        public void barButtonItemGiangDay_ItemClick(object sender, ItemClickEventArgs e)
         {
             QLyGiangDay giangDay = new QLyGiangDay();
 
@@ -76,9 +78,9 @@ namespace TTNhom_QuanLyHocSinh.Views
             giangDay.Show();
         }
 
-        
 
-        private void barButtonItemqllop_ItemClick(object sender, ItemClickEventArgs e)
+
+        public void barButtonItemqllop_ItemClick(object sender, ItemClickEventArgs e)
         {
             QLGiangDay.QLLop.QLyLop qLyLop = new QLGiangDay.QLLop.QLyLop();
 
@@ -129,6 +131,13 @@ namespace TTNhom_QuanLyHocSinh.Views
             {
                 Program.lg.Close();
             }
+        }
+
+        private void barButtonItemhd_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            string workingDirectory = Environment.CurrentDirectory;
+            string projectDirectory = Directory.GetParent(workingDirectory).Parent.FullName + @"\HDSDPhanMem\Hướng dẫn sử dụng phần mềm.docx";
+            Process.Start(projectDirectory);
         }
     }
 }

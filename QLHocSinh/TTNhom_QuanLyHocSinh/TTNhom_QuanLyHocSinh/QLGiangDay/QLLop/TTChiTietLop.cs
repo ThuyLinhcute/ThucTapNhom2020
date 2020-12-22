@@ -41,7 +41,10 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay.QLLop
                         DialogResult result = MessageBox.Show("Thêm thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         if (result == DialogResult.OK)
                         {
-                            //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                            this.Close();
+                            Program.qLyLop = new QLyLop();
+                            Program.qLyLop.Refresh();
+                            Program.quanLyChung.barButtonItemqllop_ItemClick(sender as QLyLop, null);
                         }
                     }
                     else
@@ -57,7 +60,10 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay.QLLop
                         DialogResult result = MessageBox.Show("Sửa thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         if (result == DialogResult.OK)
                         {
-                            //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                            this.Close();
+                            Program.qLyLop = new QLyLop();
+                            Program.qLyLop.Refresh();
+                            Program.quanLyChung.barButtonItemqllop_ItemClick(sender as QLyLop, null);
                         }
                     }
                     else
@@ -67,6 +73,7 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay.QLLop
                 }
             }
         }
+
 
         private Lop TaoDoiTuongLop()
         {

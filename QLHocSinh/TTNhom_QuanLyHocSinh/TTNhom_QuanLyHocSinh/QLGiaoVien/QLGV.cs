@@ -44,7 +44,10 @@ namespace TTNhom_QuanLyHocSinh.QLGiaoVien
                     DialogResult result2 = MessageBox.Show("Xoá thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     if (result2 == DialogResult.OK)
                     {
-                        //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                        this.Close();
+                        Program.qLGV = new QLGV();
+                        Program.qLGV.Refresh();
+                        Program.quanLyChung.barButtonItemGiaoVien_ItemClick(sender as QLGV, null);
                     }
                 }
             }

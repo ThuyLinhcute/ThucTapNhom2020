@@ -7,6 +7,9 @@ using TTNhom_QuanLyHocSinh.Views;
 using TTNhom_QuanLyHocSinh.QLHocSinh;
 using TTNhom_QuanLyHocSinh.Object;
 using TTNhom_QuanLyHocSinh.QLGiaoVien;
+using TTNhom_QuanLyHocSinh.QLGiangDay.QLLop;
+using TTNhom_QuanLyHocSinh.QLGiangDay;
+
 
 namespace TTNhom_QuanLyHocSinh
 {
@@ -32,6 +35,9 @@ namespace TTNhom_QuanLyHocSinh
         public static DiemSql diemSql;
         public static string mamonhoc;
         public static UserSql userSql;
+        public static QLyGiangDay qLyGiangDay;
+        public static QLDiem qLDiem;
+        public static QLyLop qLyLop;
         [STAThread]
 
         static void Main()
@@ -53,6 +59,9 @@ namespace TTNhom_QuanLyHocSinh
             diem = new Diem();
             diemSql = new DiemSql();
             userSql = new UserSql();
+            qLyLop = new QLyLop();
+            qLyGiangDay = new QLyGiangDay();
+            qLDiem = new QLDiem();
             Application.Run(lg);
         }
     }

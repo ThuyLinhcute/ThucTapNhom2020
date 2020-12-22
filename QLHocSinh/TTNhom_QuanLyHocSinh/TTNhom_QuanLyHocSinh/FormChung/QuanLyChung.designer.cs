@@ -47,6 +47,7 @@
             this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
             this.panelMain = new System.Windows.Forms.Panel();
+            this.barButtonItemhd = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbon)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,10 +63,11 @@
             this.barButtonItemGiangDay,
             this.barButtonItemDoiMatKhau,
             this.barButtonItemdanguat,
-            this.barButtonItemqllop});
+            this.barButtonItemqllop,
+            this.barButtonItemhd});
             this.ribbon.Location = new System.Drawing.Point(0, 0);
             this.ribbon.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ribbon.MaxItemId = 8;
+            this.ribbon.MaxItemId = 9;
             this.ribbon.Name = "ribbon";
             this.ribbon.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1,
@@ -189,6 +191,7 @@
             // 
             // ribbonPageGroup3
             // 
+            this.ribbonPageGroup3.ItemLinks.Add(this.barButtonItemhd);
             this.ribbonPageGroup3.Name = "ribbonPageGroup3";
             this.ribbonPageGroup3.Text = "ribbonPageGroup3";
             // 
@@ -208,6 +211,15 @@
             this.panelMain.Name = "panelMain";
             this.panelMain.Size = new System.Drawing.Size(1401, 383);
             this.panelMain.TabIndex = 2;
+            // 
+            // barButtonItemhd
+            // 
+            this.barButtonItemhd.Caption = "Tài liệu HD";
+            this.barButtonItemhd.Id = 8;
+            this.barButtonItemhd.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem1.ImageOptions.Image")));
+            this.barButtonItemhd.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem1.ImageOptions.LargeImage")));
+            this.barButtonItemhd.Name = "barButtonItemhd";
+            this.barButtonItemhd.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItemhd_ItemClick);
             // 
             // QuanLyChung
             // 
@@ -250,5 +262,6 @@
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup3;
         private System.Windows.Forms.Panel panelMain;
         private DevExpress.XtraBars.BarButtonItem barButtonItemqllop;
+        private DevExpress.XtraBars.BarButtonItem barButtonItemhd;
     }
 }

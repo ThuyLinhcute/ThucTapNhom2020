@@ -38,15 +38,18 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
                 return;
             else
             {
-                if(Program.opt == 1) // them
+                if (Program.opt == 1) // them
                 {
                     bool kq = Program.giangDaySql.Them_GD(giangday_new);
-                    if(kq)
+                    if (kq)
                     {
                         DialogResult result = MessageBox.Show("Thêm thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         if (result == DialogResult.OK)
                         {
-                            //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                            this.Close();
+                            Program.qLyGiangDay = new QLyGiangDay();
+                            Program.qLyGiangDay.Refresh();
+                            Program.quanLyChung.barButtonItemGiangDay_ItemClick(sender as QLyGiangDay, null);
                         }
                     }
                     else
@@ -54,7 +57,7 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
                         MessageBox.Show("Thêm thông tin không thành công");
                     }
                 }
-                if(Program.opt==2)
+                if (Program.opt == 2)
                 {
                     bool kq = Program.giangDaySql.Sua_GD(giangday_new, Program.giangDay);
                     if (kq)
@@ -62,14 +65,17 @@ namespace TTNhom_QuanLyHocSinh.QLGiangDay
                         DialogResult result = MessageBox.Show("Sửa thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         if (result == DialogResult.OK)
                         {
-                            //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                            this.Close();
+                            Program.qLyGiangDay = new QLyGiangDay();
+                            Program.qLyGiangDay.Refresh();
+                            Program.quanLyChung.barButtonItemGiangDay_ItemClick(sender as QLyGiangDay, null);
                         }
                     }
                     else
                     {
                         MessageBox.Show("Sửa thông tin không thành công");
                     }
-                }    
+                }
             }
         }
         private void buttonHuy_Click(object sender, EventArgs e)

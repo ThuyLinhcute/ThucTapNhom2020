@@ -45,7 +45,10 @@ namespace TTNhom_QuanLyHocSinh.QLHocSinh
                     DialogResult result2 = MessageBox.Show("Xoá thông tin thành công", "Notice message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     if (result2 == DialogResult.OK)
                     {
-                        //Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(null, null);
+                        this.Close();
+                        Program.qLHS = new QLHS();
+                        Program.qLHS.Refresh();
+                        Program.quanLyChung.barButtonItemQLHocSinh_ItemClick(sender as QLHS, null);
                     }
                 }   
             }
