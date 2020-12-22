@@ -220,6 +220,10 @@ namespace BanHangSieuTHi
             frmChiTietHoaDonNhap frm = new frmChiTietHoaDonNhap(txtMaHDN.Text);
             frm.ShowDialog();            
         }
-       
-    }
+
+          private void tabPage1_Click(object sender, EventArgs e)
+          {
+
+          }
+     }
 }
