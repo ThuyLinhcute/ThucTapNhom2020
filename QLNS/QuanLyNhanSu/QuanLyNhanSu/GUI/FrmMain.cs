@@ -1,4 +1,4 @@
-﻿using QuanLyNhanSu.DAO;
+using QuanLyNhanSu.DAO;
 using QuanLyNhanSu.GUI;
 using System;
 using System.Collections.Generic;
@@ -148,12 +148,12 @@ namespace QuanLyNhanSu
 
         private void barThongKeTheoNhanVien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmThongKeNhanVienTheoPhongBan frmtg = new FrmThongKeNhanVienTheoPhongBan();
+            FrmThongKeNhanVienTheoPhongBan frmtg = new FrmThongKeNhanVienTheoPhongBan();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
 
         private void barChamCong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -168,42 +168,42 @@ namespace QuanLyNhanSu
 
         private void barTinhLuong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            //FrmTinhLuong frmtg = new FrmTinhLuong();
-            //frmtg.TopLevel = false;
-            //frmtg.Dock = DockStyle.Fill;
-            //panelMain.Controls.Clear();
-            //panelMain.Controls.Add(frmtg);
-            //frmtg.Show();
+            FrmTinhLuong frmtg = new FrmTinhLuong();
+            frmtg.TopLevel = false;
+            frmtg.Dock = DockStyle.Fill;
+            panelMain.Controls.Clear();
+            panelMain.Controls.Add(frmtg);
+            frmtg.Show();
         }
 
         private void barThongKeNhanVienSapNghiHuu_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmThongKeNhanVienSapNghiHuu frmtg = new FrmThongKeNhanVienSapNghiHuu();
+            FrmThongKeNhanVienSapNghiHuu frmtg = new FrmThongKeNhanVienSapNghiHuu();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
         }
 
         private void barThongKeDangVien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            //FrmThongKeDangVien frmtg = new FrmThongKeDangVien();
-            //frmtg.TopLevel = false;
-            //frmtg.Dock = DockStyle.Fill;
-            //panelMain.Controls.Clear();
-            //panelMain.Controls.Add(frmtg);
-            //frmtg.Show();
-        }
-
-        private void barThongKeSinhNhatTheoThang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            /*FrmThongKeSinhNhatTheoThang frmtg = new FrmThongKeSinhNhatTheoThang();
+            FrmThongKeDangVien frmtg = new FrmThongKeDangVien();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show();*/
+            frmtg.Show();
+        }
+
+        private void barThongKeSinhNhatTheoThang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            FrmThongKeSinhNhatTheoThang frmtg = new FrmThongKeSinhNhatTheoThang();
+            frmtg.TopLevel = false;
+            frmtg.Dock = DockStyle.Fill;
+            panelMain.Controls.Clear();
+            panelMain.Controls.Add(frmtg);
+            frmtg.Show();
         }
 
         private void barQLChamCong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -217,12 +217,12 @@ namespace QuanLyNhanSu
         }
         private void barUser_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            /*FrmUser frmtg = new FrmUser();
+            FrmUser frmtg = new FrmUser();
             frmtg.TopLevel = false;
             frmtg.Dock = DockStyle.Fill;
             panelMain.Controls.Clear();
             panelMain.Controls.Add(frmtg);
-            frmtg.Show()*/;
+            frmtg.Show();
         }
           #endregion
 
