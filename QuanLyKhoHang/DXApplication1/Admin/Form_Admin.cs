@@ -149,8 +149,8 @@ namespace DXApplication1
 
           private void barButtonItem12_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
           {
-               //panelMain.Controls.Clear();
-               //panelMain.Controls.Add(new Phieunhap());
+            panelMain.Controls.Clear();
+            panelMain.Controls.Add(new Phieunhap());
           }
 
           private void barButtonItem11_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
