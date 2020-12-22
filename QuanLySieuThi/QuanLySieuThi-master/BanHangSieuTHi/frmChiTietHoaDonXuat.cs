@@ -45,14 +45,14 @@ namespace BanHangSieuTHi
 
         private void dgvHangHoa_CellClick(object sender, DataGridViewCellEventArgs e)
         {        
-            // if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
-            // {
-            //     txtHDX.Text = dgvHangHoa.CurrentRow.Cells["SoHDX"].Value.ToString().Trim();
-            //     txtMaLoai.Text = dgvHangHoa.CurrentRow.Cells["MaLoai"].Value.ToString().Trim();
-            //     txtMaHang.Text = dgvHangHoa.CurrentRow.Cells["MaHang"].Value.ToString().Trim();
-            //     txtSoLuong.Text = dgvHangHoa.CurrentRow.Cells["SoLuong"].Value.ToString().Trim();
-            //     txtDonGia.Text = dgvHangHoa.CurrentRow.Cells["DonGia"].Value.ToString().Trim();
-            // }
+             if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
+             {
+                 txtHDX.Text = dgvHangHoa.CurrentRow.Cells["SoHDX"].Value.ToString().Trim();
+                 txtMaLoai.Text = dgvHangHoa.CurrentRow.Cells["MaLoai"].Value.ToString().Trim();
+                 txtMaHang.Text = dgvHangHoa.CurrentRow.Cells["MaHang"].Value.ToString().Trim();
+                 txtSoLuong.Text = dgvHangHoa.CurrentRow.Cells["SoLuong"].Value.ToString().Trim();
+                txtDonGia.Text = dgvHangHoa.CurrentRow.Cells["DonGia"].Value.ToString().Trim();
+            }
         }
 
         private void btnExit_Click(object sender, EventArgs e)
