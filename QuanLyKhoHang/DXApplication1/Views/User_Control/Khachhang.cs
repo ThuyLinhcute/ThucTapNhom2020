@@ -27,11 +27,11 @@ namespace DXApplication1.Views.User_Control
         }
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            //txtKHID.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
-            //txtTenKH.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
-            //txtDiachi.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
-            //txtDienthoai.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
-            //txtEmail.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
+            txtKHID.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+            txtTenKH.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
+            txtDiachi.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+            txtDienthoai.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
+            txtEmail.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
         }
 
 
@@ -183,16 +183,16 @@ namespace DXApplication1.Views.User_Control
 
         private void txtTKTenKH_TextChanged(object sender, EventArgs e)
         {
-            //kh.timKiem(txtTKTenKH.Text, txtTKDiachi.Text);
+            kh.timKiem(txtTKTenKH.Text, txtTKDiachi.Text);
         }
 
         private void dataGridView1_CellEnter(object sender, DataGridViewCellEventArgs e)
         {
-            //txtKHID.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
-            //txtTenKH.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
-            //txtDiachi.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
-            //txtDienthoai.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
-            //txtEmail.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
+            txtKHID.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+            txtTenKH.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
+            txtDiachi.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+            txtDienthoai.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
+            txtEmail.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
         }
     }
 }
