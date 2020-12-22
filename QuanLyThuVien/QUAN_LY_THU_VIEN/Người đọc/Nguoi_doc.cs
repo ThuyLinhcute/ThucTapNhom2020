@@ -50,25 +50,25 @@ namespace QUAN_LY_THU_VIEN.Người_đọc
         private void dataGridView_doc_gia_CellEnter(object sender, DataGridViewCellEventArgs e)
         {
 
-            ////an cai cap nhat di
-            //bt_cap_nhat.Visible = false;
+            //an cai cap nhat di
+            bt_cap_nhat.Visible = false;
 
-            //tb_ma_doc_gia.Text = dataGridView_doc_gia.CurrentRow.Cells["Ma_doc_gia"].Value.ToString();
-            //tb_ten_doc_gia.Text = dataGridView_doc_gia.CurrentRow.Cells["Ten_doc_gia"].Value.ToString();
-            //tb_dia_chi.Text = dataGridView_doc_gia.CurrentRow.Cells["Dia_chi"].Value.ToString();
-            //tb_so_the.Text = dataGridView_doc_gia.CurrentRow.Cells["So_the"].Value.ToString();
-            //tb_ngay_bat_dau.Text = dataGridView_doc_gia.CurrentRow.Cells["Ngay_bat_dau"].Value.ToString();
-            //tb_ngay_ket_thuc.Text = dataGridView_doc_gia.CurrentRow.Cells["Ngay_het_han"].Value.ToString();
-            //tb_ghi_chu.Text = dataGridView_doc_gia.CurrentRow.Cells["Ghi_chu"].Value.ToString();
+            tb_ma_doc_gia.Text = dataGridView_doc_gia.CurrentRow.Cells["Ma_doc_gia"].Value.ToString();
+            tb_ten_doc_gia.Text = dataGridView_doc_gia.CurrentRow.Cells["Ten_doc_gia"].Value.ToString();
+            tb_dia_chi.Text = dataGridView_doc_gia.CurrentRow.Cells["Dia_chi"].Value.ToString();
+            tb_so_the.Text = dataGridView_doc_gia.CurrentRow.Cells["So_the"].Value.ToString();
+            tb_ngay_bat_dau.Text = dataGridView_doc_gia.CurrentRow.Cells["Ngay_bat_dau"].Value.ToString();
+            tb_ngay_ket_thuc.Text = dataGridView_doc_gia.CurrentRow.Cells["Ngay_het_han"].Value.ToString();
+            tb_ghi_chu.Text = dataGridView_doc_gia.CurrentRow.Cells["Ghi_chu"].Value.ToString();
 
 
-            //tb_ma_doc_gia.ReadOnly = true;
-            //tb_ten_doc_gia.ReadOnly = true;
-            //tb_dia_chi.ReadOnly = true;
-            //tb_so_the.ReadOnly = true;
-            //tb_ngay_bat_dau.ReadOnly = true;
-            //tb_ngay_ket_thuc.ReadOnly = true;
-            //tb_ghi_chu.ReadOnly = true;
+            tb_ma_doc_gia.ReadOnly = true;
+            tb_ten_doc_gia.ReadOnly = true;
+            tb_dia_chi.ReadOnly = true;
+            tb_so_the.ReadOnly = true;
+            tb_ngay_bat_dau.ReadOnly = true;
+            tb_ngay_ket_thuc.ReadOnly = true;
+            tb_ghi_chu.ReadOnly = true;
 
 
 
@@ -143,99 +143,99 @@ namespace QUAN_LY_THU_VIEN.Người_đọc
 
         private void bt_cap_nhat_Click(object sender, EventArgs e)
         {
-            //int giatri = 0;
+            int giatri = 0;
 
-            ////hien message box 
-            //if (giatri == 0)
-            //{
-            //    System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập người đọc này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            //    if (result == System.Windows.Forms.DialogResult.Yes)
-            //    {
-            //        MessageBox.Show("ban chon yess");
-            //        if (status == 1)
-            //        {
-            //            Insert_Doc_gia();
-            //        }
-            //        else if (status == 2)
-            //        {
-            //            Update_Doc_gia();
-            //        }
+            //hien message box 
+            if (giatri == 0)
+            {
+                System.Windows.Forms.DialogResult result = MessageBox.Show("Bạn có chắc cập người đọc này", "Alert Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == System.Windows.Forms.DialogResult.Yes)
+                {
+                    MessageBox.Show("ban chon yess");
+                    if (status == 1)
+                    {
+                        Insert_Doc_gia();
+                    }
+                    else if (status == 2)
+                    {
+                        Update_Doc_gia();
+                    }
 
-            //        //reload
-            //        Nguoi_doc_Load(panel2, e);
+                    //reload
+                    Nguoi_doc_Load(panel2, e);
 
-            //    }
-            //    else if (result == System.Windows.Forms.DialogResult.No)
-            //    {
-            //        MessageBox.Show("ban chon no");
-            //    }
-            //}
+                }
+                else if (result == System.Windows.Forms.DialogResult.No)
+                {
+                    MessageBox.Show("ban chon no");
+                }
+            }
         }
 
         public void Insert_Doc_gia()
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("them_doc_gia", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    //them parameter 
-            //    cmd.Parameters.Add(new SqlParameter("@sothe", tb_so_the.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@madocgia", tb_ma_doc_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@tendocgia", tb_ten_doc_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@diachi", tb_dia_chi.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@nbd",Convert.ToDateTime(tb_ngay_bat_dau.Text)));
-            //    cmd.Parameters.Add(new SqlParameter("@nhh", Convert.ToDateTime(tb_ngay_ket_thuc.Text)));
+            SqlConnection con = new SqlConnection(connectionString.connectionstring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("them_doc_gia", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            try
+            {
+                //them parameter 
+                cmd.Parameters.Add(new SqlParameter("@sothe", tb_so_the.Text));
+                cmd.Parameters.Add(new SqlParameter("@madocgia", tb_ma_doc_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@tendocgia", tb_ten_doc_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@diachi", tb_dia_chi.Text));
+                cmd.Parameters.Add(new SqlParameter("@nbd", Convert.ToDateTime(tb_ngay_bat_dau.Text)));
+                cmd.Parameters.Add(new SqlParameter("@nhh", Convert.ToDateTime(tb_ngay_ket_thuc.Text)));
 
 
-            //    //chay
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException)
-            //{
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Khong them duoc");
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //    cmd.Dispose();
-            //}
+                //chay
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException)
+            {
+                System.Windows.Forms.DialogResult d;
+                d = MessageBox.Show("Khong them duoc");
+            }
+            finally
+            {
+                con.Close();
+                cmd.Dispose();
+            }
 
 
         }
 
         public void Update_Doc_gia()
         {
-            //SqlConnection con = new SqlConnection(connectionString.connectionstring);
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("sua_doc_gia", con);
-            //cmd.CommandType = CommandType.StoredProcedure;
-            //try
-            //{
-            //    //them parameter 
-            //    cmd.Parameters.Add(new SqlParameter("@sothe", tb_so_the.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@madocgia", tb_ma_doc_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@tendocgia", tb_ten_doc_gia.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@diachi", tb_dia_chi.Text));
-            //    cmd.Parameters.Add(new SqlParameter("@nbd", Convert.ToDateTime(tb_ngay_bat_dau.Text)));
-            //    cmd.Parameters.Add(new SqlParameter("@nhh", Convert.ToDateTime(tb_ngay_ket_thuc.Text)));
+            SqlConnection con = new SqlConnection(connectionString.connectionstring);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("sua_doc_gia", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            try
+            {
+                //them parameter 
+                cmd.Parameters.Add(new SqlParameter("@sothe", tb_so_the.Text));
+                cmd.Parameters.Add(new SqlParameter("@madocgia", tb_ma_doc_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@tendocgia", tb_ten_doc_gia.Text));
+                cmd.Parameters.Add(new SqlParameter("@diachi", tb_dia_chi.Text));
+                cmd.Parameters.Add(new SqlParameter("@nbd", Convert.ToDateTime(tb_ngay_bat_dau.Text)));
+                cmd.Parameters.Add(new SqlParameter("@nhh", Convert.ToDateTime(tb_ngay_ket_thuc.Text)));
 
 
-            //    //chay
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (SqlException)
-            //{
-            //    System.Windows.Forms.DialogResult d;
-            //    d = MessageBox.Show("Khong sua duoc");
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //    cmd.Dispose();
-            //}
+                //chay
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException)
+            {
+                System.Windows.Forms.DialogResult d;
+                d = MessageBox.Show("Khong sua duoc");
+            }
+            finally
+            {
+                con.Close();
+                cmd.Dispose();
+            }
 
 
         }
