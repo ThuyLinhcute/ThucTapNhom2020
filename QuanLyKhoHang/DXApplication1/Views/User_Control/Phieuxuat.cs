@@ -35,9 +35,9 @@ namespace DXApplication1.Views.User_Control
         }
         private void btnKH_Click_1(object sender, EventArgs e)
         {
-            //Form_KH KH = new Form_KH();
-            //KH.Getmydata = new Form_KH.GetData(GetValueKH);
-            //KH.ShowDialog();
+            Form_KH KH = new Form_KH();
+            KH.Getmydata = new Form_KH.GetData(GetValueKH);
+            KH.ShowDialog();
         }
         public void GetValueNV(string id, string name)
         {
