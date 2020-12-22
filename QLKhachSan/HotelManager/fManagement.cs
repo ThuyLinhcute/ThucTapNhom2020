@@ -193,15 +193,15 @@ namespace HotelManager
 
         private void title_Click(object sender, EventArgs e)
         {
-            //if (CheckAccess("freport"))
-            //{
-            //    this.Hide();
-            //    fReport fAbout = new fReport();
-            //    fAbout.ShowDialog();
-            //    this.Show();
-            //}
-            //else
-            //    MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            if (CheckAccess("freport"))
+            {
+               this.Hide();
+               fReport fAbout = new fReport();
+               fAbout.ShowDialog();
+               this.Show();
+            }
+            else
+               MessageBox.Show("Bạn không quyền truy cập.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
         }
 
