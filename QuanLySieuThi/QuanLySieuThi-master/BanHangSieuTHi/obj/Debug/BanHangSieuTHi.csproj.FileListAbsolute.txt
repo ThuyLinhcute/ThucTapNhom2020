@@ -817,3 +817,26 @@ D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\RdlCompile.compiled
 D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CopyComplete
 D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
 D:\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csprojAssemblyReference.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Form1.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Add.frmHangHoa.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBanHang2.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmBaoCaoThongKe.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmCheckOut.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonNhap.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmChiTietHoaDonXuat.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Edit.frmHangHoa.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHoaDon.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLKH.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLNV.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmHangHoaMain.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmQLUser.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThongKe.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.frmThemUser.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Login.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.Properties.Resources.resources
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.GenerateResource.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.csproj.CoreCompileInputs.cache
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.exe
+H:\năm 4\thực tập nhóm\thực tập_2020\thuctapnhoml3\ThucTapNhom2020\QuanLySieuThi\QuanLySieuThi-master\BanHangSieuTHi\obj\Debug\BanHangSieuTHi.pdb
