@@ -28,10 +28,10 @@ namespace QuanLyNhanSu.GUI
 
         private void btnXuat_Click(object sender, EventArgs e)
         {
-            SaveFileDialog saveFileDialog1 = new SaveFileDialog();
-            saveFileDialog1.Filter = "Excel |*.xls";
-            saveFileDialog1.Title = "Save an Excel File";
-            saveFileDialog1.ShowDialog();
+            // SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+            // saveFileDialog1.Filter = "Excel |*.xls";
+            // saveFileDialog1.Title = "Save an Excel File";
+            // saveFileDialog1.ShowDialog();
 
             string FileName = saveFileDialog1.FileName.ToString();
             try
