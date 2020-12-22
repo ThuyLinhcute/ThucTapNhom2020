@@ -164,11 +164,35 @@
     <Compile Include="GUI\FrmQuaTrinhHocTap.designer.cs">
       <DependentUpon>FrmQuaTrinhHocTap.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\FrmThongKeNhanVienSapNghiHuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmThongKeNhanVienSapNghiHuu.designer.cs">
+      <DependentUpon>FrmThongKeNhanVienSapNghiHuu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmThongKeNhanVienTheoPhongBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmThongKeNhanVienTheoPhongBan.designer.cs">
+      <DependentUpon>FrmThongKeNhanVienTheoPhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmThongKeSinhNhatTheoThang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmThongKeSinhNhatTheoThang.designer.cs">
+      <DependentUpon>FrmThongKeSinhNhatTheoThang.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\FrmThongTinGiaDinh.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\FrmThongTinGiaDinh.designer.cs">
       <DependentUpon>FrmThongTinGiaDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmUser.designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -209,8 +233,20 @@
     <EmbeddedResource Include="GUI\FrmQuaTrinhHocTap.resx">
       <DependentUpon>FrmQuaTrinhHocTap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmThongKeNhanVienSapNghiHuu.resx">
+      <DependentUpon>FrmThongKeNhanVienSapNghiHuu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmThongKeNhanVienTheoPhongBan.resx">
+      <DependentUpon>FrmThongKeNhanVienTheoPhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmThongKeSinhNhatTheoThang.resx">
+      <DependentUpon>FrmThongKeSinhNhatTheoThang.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmThongTinGiaDinh.resx">
       <DependentUpon>FrmThongTinGiaDinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmUser.resx">
+      <DependentUpon>FrmUser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
